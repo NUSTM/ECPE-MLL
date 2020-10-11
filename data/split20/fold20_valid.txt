@@ -1,0 +1,3281 @@
+1433 12
+ (9,9)
+1,null,null,据 其 交代
+2,null,null,他 在 驾驶 农用车 掉头 时 不慎 撞 上 行人
+3,null,null,导致 农用车 玻璃 破裂
+4,null,null,虽然 被 撞 行人 躺 在 路边
+5,null,null,他 却 驾车 逃离 了 现场
+6,null,null,因涉嫌 交通肇事 逃逸
+7,null,null,张某 已 被 刑事拘留
+8,null,null,因为 未 及时 施救
+9,sadness,后悔,当事人 张师傅 对 自己 母亲 的 离世 后悔不已
+10,null,null,记者 试图 通过 交警部门 联系 张师傅
+11,null,null,但是 交警部门 表示
+12,null,null,此事 经 媒体报道 后 当事人 压力 太 大 不便 接受 采访
+1981 18
+ (9,8)
+1,null,null,最近
+2,null,null,一只 神秘 野兽 突然 现身 邯郸 武安 赵 南庄 村
+3,null,null,趁着 夜深
+4,null,null,窜入 羊圈 疯狂 撕咬
+5,null,null,慌乱 中
+6,null,null,一只 羊竟 狂奔 数百米
+7,null,null,躲入 一 废弃 驴圈 躲过一劫
+8,null,null,这一 神秘 野兽 的 出现
+9,fear,担心,使得 附近 村民 担心 不已
+10,null,null,这 野兽 到底 是 啥
+11,null,null,野兽 深夜 大闹 羊圈 近日
+12,null,null,邯郸 武安 赵 南庄 村 村民 于海 良家 17 只 小尾寒羊 遭到 野兽 攻击
+13,null,null,12 只 死亡
+14,null,null,3 只 受伤
+15,null,null,仅剩 两只 无 大碍
+16,null,null,羊 的 伤口 还 都 在 脖子 上
+17,null,null,4 日 下午
+18,null,null,记者 赶到 该村
+780 11
+ (10,10)
+1,null,null,2007 年
+2,null,null,参加 高考 前
+3,null,null,邵金辉 向 招考办 多次 打 去 电话
+4,null,null,询问 自己 的 身体状况 是否 可以 参加 高考
+5,null,null,我 希望 学医
+6,null,null,治病救人 是 我 的 梦想
+7,null,null,最终
+8,null,null,小 邵以 优异 的 成绩 考取 了 自己 理想 中 的 专业 — — 辽宁 中医药大学 中医学
+9,null,null,小 邵 清楚 地 记得
+10,happiness,高兴,得到 通知书 当天 他 高兴 地 哭 了
+11,null,null,他 是 家里 惟一 的 大学生
+593 9
+ (7,8)
+1,null,null,小美说
+2,null,null,学校 了解 了 她 的 情况 后 允许 她 毕业 后 再 把 学费 补齐
+3,null,null,至今
+4,null,null,小美 仍然 不 知道 母亲 想要 整容 的 原因
+5,null,null,她 没 和 我 说 过
+6,null,null,我们 不谈 这个
+7,sadness,后悔,她 说 过 很 后悔
+8,null,null,觉得 很 对不起 我
+9,null,null,我 现在 只 希望 母亲 赶紧 好 起来
+1145 33
+ (31,31)
+1,null,null,3 月 31 日 上午
+2,null,null,她 一早 起来
+3,null,null,煮 了 另 一袋 给 7 岁 的 儿子 当 早饭
+4,null,null,中午 我 在 做饭
+5,null,null,有点 饿 了
+6,null,null,早上 儿子 吃 的 饺子 还有 剩
+7,null,null,我 就 吃 了 一个 垫 垫 肚子
+8,null,null,哪 晓得 咬了一口
+9,null,null,感觉 吃 到 了 异物
+10,null,null,我 还 以为 是 没 绞碎 的 骨头
+11,null,null,她 吐出来 一看
+12,null,null,竟是 一 截 香烟 过滤嘴
+13,null,null,咂咂嘴
+14,null,null,嘴里 一股 烟臭味
+15,null,null,觉得 很 恶心
+16,null,null,一天 都 没有 吃饭
+17,null,null,凌 汤圆 是 大 品牌
+18,null,null,发生 这种 事太 难以置信 了
+19,null,null,王女士 说
+20,null,null,随后 她 拿 着 饺子 购物 票据 找到 超市
+21,null,null,厂家 问 是否 香菇 王女士 说
+22,null,null,当日 下午
+23,null,null,她 通过 超市 联系 上 了 凌 汤圆 的 一位 销售 经理
+24,null,null,他 不仅 没 致歉
+25,null,null,还 让 我 确认 吃 到 的 是不是 香菇
+26,null,null,我 让 他 来 调查
+27,null,null,他 说 自己 在 沙坪坝
+28,null,null,璧山 太远
+29,null,null,过来 不 现实
+30,null,null,王女士 说
+31,anger,气愤,这位 经理 的 说法 让 她 十分 气愤
+32,null,null,对方 还称 水饺 已经 开袋
+33,null,null,无法 确认 过滤嘴 是不是 来自 水饺 里
+1896 16
+ (7,6)
+1,null,null,民警 介绍
+2,null,null,4 月 28 日 下午 5 时 20 分许
+3,null,null,赤城县 公安局 指挥 中心 接到 一 女子 报案
+4,null,null,称 其 年 仅 7 岁 的 女儿 孟某 放学 后 与 同学 结伴 上山 玩耍 走失
+5,null,null,现在 结伴 同学 已经 回到 家中
+6,null,null,而 自己 的 女儿 一直 未归 下落不明
+7,fear,心急,家长 心急如焚
+8,null,null,报警 求助
+9,null,null,接警 后
+10,null,null,赤城县 公安局 高度重视
+11,null,null,在 详细 了解 了 小女孩 爬山 的 位置 后
+12,null,null,赤城县 公安局 立即 召开 了 调度会
+13,null,null,抽调 治安 巡 特警 消防 等 警力 70 余人 对 整座 山及 周边地区 展开 搜寻
+14,null,null,同时 利用 短信 平台 群发 失踪 女孩 信息
+15,null,null,在 广播电视 贴 吧 刊发 寻人启事
+16,null,null,广泛 发动群众 提供线索
+1092 18
+ (8,8), (12,11), (10,13)
+1,null,null,李某 初中 辍学 后 不想 外出 做事
+2,null,null,一直 在 村里 东游西 晃
+3,null,null,父母 多次 劝说
+4,null,null,李某 先是 不理不睬
+5,null,null,后来 嫌 父母 唠叨 干脆 不着 家
+6,null,null,瞅 着 村里 哪户 人家 出去 打工 家里 没 人
+7,null,null,就 采取 溜门 撬 窗 的 方式 进入 屋内 找 吃 的 喝 的 衣服 和 钱物
+8,happiness,高兴,吃饱喝足 后 高兴 了 就 在 人家 住 几天
+9,null,null,直到 找到 下 一家 为止
+10,anger,气愤,令 受害人 气愤 的 是
+11,null,null,如果 被 偷 的 人家 没什么 油水
+12,disgust,不爽,李某 觉得 不爽
+13,null,null,会 在 床上 拉屎
+14,null,null,自从 去年 元月份
+15,null,null,李某 到 一 农户家 偷 方便面 衣服 得手 后
+16,null,null,他 胆子 愈来愈 大
+17,null,null,觉得 这是 一条 养活 自己 的 门道
+18,null,null,四处 作案 直到 东窗事发
+1277 14
+ (11,10)
+1,null,null,小学 一年级 时
+2,null,null,班上 组织 到 翠屏山 登山 比赛
+3,null,null,李涛 看见 龙龙 当时 比较 矮小
+4,null,null,肯定 跑 不过 其他 孩子
+5,null,null,便 推着 自行车
+6,null,null,提前 在 翠屏山 的 拐弯 的 半坡 中等 龙龙
+7,null,null,看见 儿子 来 了
+8,null,null,一把 把 儿子 抱上 自行车
+9,null,null,顺势 就 从 小路 超 了 过去
+10,null,null,最后 龙龙 得 了 第二名
+11,happiness,高兴,高兴 得 合不拢嘴
+12,null,null,每 一个 问题 龙龙 都 能 答对
+13,null,null,每 回答 对 一个 问题
+14,null,null,李涛 就 给 他 竖 大拇指
+6 12
+ (6,6), (9,12)
+1,null,null,2013 年 6 月
+2,null,null,在 深圳 打拼 10 年 的 吴树梁 终于 拿到 大红 的 深圳市 户口
+3,null,null,儿子 吴同 也 随之 迁入 深圳
+4,null,null,但 妻子 丁维清 却 必须 等候 吴树梁 入户 满 两年 才能 随迁
+5,null,null,半年 后
+6,happiness,欣喜,当初 获得 入户 指标 的 那份 欣喜
+7,null,null,因为 老 吴 患上 肺癌 晚期 的 噩耗 而 荡然无存
+8,null,null,取而代之 的
+9,sadness,忧虑,是 他 对 自己 生存期 的 忧虑
+10,null,null,医生 的 判决 是 36 个 月
+11,null,null,这 意味着
+12,null,null,老 吴 可能 等 不到 妻子 随 迁入 户 深圳
+357 12
+ (7,6)
+1,null,null,初审 过程 中
+2,null,null,周某 还 强作 镇定 地 反问 我 做 了 什么 事
+3,null,null,但 在 证据 面前
+4,null,null,他 很快 对 自己 做 的 事情 供认不讳
+5,null,null,原来
+6,null,null,当晚 周某 和 老婆 因 琐事 吵 了 一架
+7,disgust,郁闷,心情 极度 郁闷 下 一个 人到 外面 散心
+8,null,null,无意间 看到 独身 一人 的 李女士 颇 有 姿色
+9,null,null,他 便 起 了 歹心
+10,null,null,听说 她 有 艾滋病
+11,null,null,我 立马 就 没 兴趣 了
+12,null,null,周某 供述
+748 16
+ (12,11)
+1,null,null,去年 年底
+2,null,null,被 工友 评为 胆儿 大
+3,null,null,点儿 多
+4,null,null,敢想敢干 的 孙恒 通过 微博
+5,null,null,给 崔永元 发 私信
+6,null,null,希望 崔永元 能 参加 他 办 的 首届 打工 春晚
+7,null,null,这 是 给 工友 们 办 的
+8,null,null,孙恒 描述 称
+9,null,null,几天 后
+10,null,null,他 得到 回复
+11,null,null,崔永元 确定 要 来
+12,happiness,兴奋,这 让 孙恒 很 兴奋
+13,null,null,张罗 准备
+14,null,null,但 不管怎么 张罗
+15,null,null,声光电 舞台 等 硬件 不足
+16,null,null,新 工人 剧场 显得 寒酸
+942 20
+ (12,11)
+1,null,null,据范爱成 供述
+2,null,null,两人 聊天 过程 中
+3,null,null,他 就 对 长相 甜美 的 刘某 产生 好感
+4,null,null,从那之后
+5,null,null,他 经常 来 该 足疗 店 找 刘某
+6,null,null,也 陆续 塞钱 给 刘某
+7,null,null,前后 加 起来 共有 五六万 块钱
+8,null,null,随着 二人 关系 发展
+9,null,null,范爱成 开始 提出 要 与 刘某 发生 性关系
+10,null,null,但是
+11,null,null,刘某 却 多次 拒绝
+12,disgust,怨恨,让 范爱成 逐渐 心 生 怨恨
+13,null,null,今年 3 月 30 日 中午
+14,null,null,范爱成 来 足疗 店
+15,null,null,当时
+16,null,null,刘某 与 另 一 女子 黄某 正在 店中
+17,null,null,范爱成 一 进去 就 对 刘某 说 今天 给 你 一千 四
+18,null,null,给 黄某 五百
+19,null,null,你 今天 就 陪 我
+20,null,null,黄某 自己 出去 转转
+758 14
+ (7,6)
+1,null,null,人力资源 专业 的 利敏妍 就 经常 将涛涛 领到 宿舍
+2,null,null,还 帮 他 到 各个 寝室 四处 收集 瓶罐
+3,null,null,据 了解
+4,null,null,有些 班级 已经 收集 了 多次 瓶子 拿给 涛涛 了
+5,null,null,同学 们 还 直接 帮涛涛 拎 到 张 阿姨 那里
+6,null,null,学生 们 的 热心 行为
+7,happiness,感动,让 张 阿姨 很 感动
+8,null,null,记者 了解 到
+9,null,null,涛涛 懂事
+10,null,null,但 毕竟 还是 孩子
+11,null,null,捡回 瓶子 后 也 会 偶尔 缠 着 妈妈 要 买 玩具 和 好吃 的
+12,null,null,看到 他 这么 小 就 这么 懂事
+13,null,null,我 觉得 很 心疼
+14,null,null,有 女生 告诉 记者
+505 9
+ (3,3)
+1,null,null,2012 年 3 月
+2,null,null,对 家住 甘肃 天水 甘泉 镇 的 高 峰峰 和 董慧芳 两口子 来说 是 一个 悲喜交加 的 月份
+3,happiness,喜悦,前 半个 月 全家 沉浸 在 盖新房 的 喜悦 中
+4,null,null,眼看 多年 来 省吃俭用 盖新房 住 新房 的 愿望 就要 变成 现实
+5,null,null,高 峰峰 这个 曾经 因 贫穷 而 饱受 冷眼 的 男人 觉得 终于 能换个 活法 做人 了
+6,null,null,董慧芳 记忆 中 的 那段 日子 是 天天 都 很 忙
+7,null,null,但 干 啥 都 很 有劲
+8,null,null,只要 想 起来 能 让 两个 娃住 上 新房
+9,null,null,夫妻俩 心里 甜得 跟 蜜 一样
+1827 9
+ (2,2)
+1,null,null,5 月 11 日 一大早
+2,happiness,喜悦,沉浸 在 儿子 大婚 即将 到来 的 喜悦 之中 的 夹 竹园镇 瓦池村 刘某 一家 突然 炸开 了 锅
+3,null,null,为 婚礼 准备 的 六 万多元 现金 不翼而飞
+4,null,null,惊慌失措 的 刘 老头 马上 向 公安县 公安局 夹 竹园 派出所 报 了 案
+5,null,null,案发现场 位于 一栋 三层 的 农家 小楼 的 一楼 卧室
+6,null,null,一楼 门窗 完好
+7,null,null,没有 发现 嫌疑人 进入 现场 的 痕迹
+8,null,null,当 民警 勘查 至三楼 楼顶 时
+9,null,null,发现 通向 顶 楼阁 层 的 防盗门 洞开
+106 3
+ (3,1), (3,2)
+1,null,null,对 这位 拖 着 残腿 在 讲台 苦撑 了 34 年
+2,null,null,病危 关头 念叨 的 还是 学生 的 校长
+3,happiness,敬意,村民 们 用 最 淳朴 的 方式 来 表达 他们 最 崇高 的 敬意
+724 17
+ (8,8), (14,15)
+1,null,null,在 热心 网友 的 建议 下
+2,null,null,今年 6 月 2 日
+3,null,null,万金 强 父子 来到 北京
+4,null,null,小凡 最终 被 确诊 为 胆道 闭锁
+5,null,null,可以 通过 亲体 肝移植 手术 进行 治疗
+6,null,null,经历 了 一年 多 的 煎熬
+7,null,null,小凡 的 病 终于 看到 希望 了
+8,sadness,欲哭无泪,但 现实 却 让 万金 强 欲哭无泪
+9,null,null,由于 小 凡是 B型 血
+10,null,null,万金 强是 AB型 血
+11,null,null,父子俩 血型 不符
+12,null,null,母亲 与 小凡同 血型
+13,null,null,但 人 又 不知去向
+14,sadness,为难,更 让 万金 强 为难 的 是
+15,null,null,长期 的 治疗 已经 花光 了 家里 的 积蓄
+16,null,null,连 来京 的 路费
+17,null,null,都 是 好心 的 网友 帮忙 凑 的
+1040 19
+ (9,10)
+1,null,null,1 月 27 日晚 7 时
+2,null,null,赵 女士 突发 剧烈性 腹痛
+3,null,null,无法 动弹
+4,null,null,几度 昏厥
+5,null,null,被 送到 第五 人民 医院 的 赵 女士
+6,null,null,做 了 一系列 检查
+7,null,null,我 记得 当时 B超 师刚 把 仪器 放在 我 的 肚子 上
+8,null,null,就 大叫 一声 跑出去 找 医生 了
+9,sadness,伤心,赵 女士 伤心地 说
+10,null,null,B超 显示 她 宫外孕 大出血
+11,null,null,随后
+12,null,null,医院 开始 对 我 进行 抢救
+13,null,null,当时 我 身上 的 血管 都 塌陷 了
+14,null,null,只好 通过 脖子 上 的 大动脉 进行 输液
+15,null,null,赵 女士 哭诉 着
+16,null,null,当时 我 有 好 几次 都 休克 过去 了
+17,null,null,医生 怕 我 一 睡过去 就 醒 不来 了
+18,null,null,手术 时 也 没有 用 麻醉药
+19,null,null,赵 女士 忍着 剧痛 接受 了 第二次 手术
+280 16
+ (12,12)
+1,null,null,2013 年 7 月
+2,null,null,省城 一 女子 方丽 通过 章丘 某 婚介所 认识 了 一 名叫 王华 的 男子
+3,null,null,看 介绍
+4,null,null,王华 五十 来 岁
+5,null,null,老家 河北
+6,null,null,老伴 多年 前 去世
+7,null,null,方丽向 民警 回忆
+8,null,null,婚介所 的 工作人员 告诉 她
+9,null,null,王华系 省城 一 机关 单位 退休职工
+10,null,null,现在 外 搞 工程
+11,null,null,有 多处 房产
+12,happiness,感动,但 最 让 方丽 感动 的 还是 王华 的 细心 体贴
+13,null,null,在 和 方丽 相处 过程 中
+14,null,null,王华 殷勤 备至
+15,null,null,经常 主动 下厨 炒菜 做饭
+16,null,null,让 方丽 误以为 王华 就是 自己 几年 来 寻找 的 意中人
+56 5
+ (2,1)
+1,null,null,陈某 得知 丈夫 婚外 同居 后
+2,sadness,无奈,无奈 的 她 没有 太 多 怨言
+3,null,null,只 要求 叶某 每月 及时 支付 保姆 费 和 生活费
+4,null,null,直至 去年 4 月份
+5,null,null,瘫痪 在 床 的 陈某 灰心丧气 便服 农药 自杀 了
+1875 15
+ (10,9)
+1,null,null,林某 虽然 按时 支付 赡养费
+2,null,null,但 母子间 的 关系 却 仍 未 见 缓和
+3,null,null,当年 她 收回 家产 写下 协议书
+4,null,null,母子情 份 就 断 了
+5,null,null,林某 说
+6,null,null,这 口气 他 实在 咽不下 去
+7,null,null,而 老太太 则 说
+8,null,null,不管 当年 自己 做 了 什么
+9,null,null,可 这 二十多年 来 儿子 都 不曾 去 看过 她 一眼
+10,sadness,心寒,自己 太 心寒 了
+11,null,null,国庆节 前
+12,null,null,李 老太 第三次 起诉 到 了 法院
+13,null,null,要求 长子 增加 赡养费
+14,null,null,经 法院 调解 后
+15,null,null,李 老太 暂时 撤回 了 起诉
+1839 15
+ (5,4), (6,7)
+1,null,null,唐子 人 美国 同事   杰娜 · 克兰 我们 去年 开始 一起 工作
+2,null,null,最近 听说 他 在 海洋公园 救活 了 一个 病人
+3,null,null,我们 都 为 他 感到 骄傲
+4,null,null,他 在 这里 做 研究 的 同时 还 能 救人
+5,happiness,骄傲,我们 为 他 骄傲
+6,happiness,高兴,唐子 人 美国 同事   乔尔 · 珀雷克 我们 很 高兴
+7,null,null,他 救活 了 病人
+8,null,null,他 是 一个 非常 善良 的 人
+9,null,null,有 礼貌 有 修养
+10,null,null,很 高兴 能 和 他 一起 共事
+11,null,null,解说 这是 美国 同事 们 知道 唐 医生 救人 后 特意 送来 的 蛋糕
+12,null,null,上面 写 着 我们 的 英雄
+13,null,null,而 为 唐 医生 点赞 的
+14,null,null,不仅 有 美国 同事
+15,null,null,还 包括 他 的 中国 同事 们
+1723 16
+ (8,6)
+1,null,null,陈先生 家住 九台市 上 河湾 镇
+2,null,null,平日 就 住 在 自家 的 收粮点
+3,null,null,是 个 地地道道 的 收粮人
+4,null,null,每年 10 月 1 号 以后 开始 收粮
+5,null,null,要 一直 忙 到 过年
+6,null,null,谁知 元旦 这天 却 被 砸车 贼 砸 了 车
+7,null,null,拿走 了 2 万多元 现金
+8,disgust,糟心,陈先生 觉得 太 糟心 了
+9,null,null,记者 了解 到
+10,null,null,由于 陈先生 收粮点 院内 面积 有限
+11,null,null,就 将 车 停 在 了 院外 对面 的 马路上
+12,null,null,晚上 8 点
+13,null,null,陈先生 正忙着
+14,null,null,听到 外边 的 嘈杂声 就 跑 出来 看 一下
+15,null,null,发现自己 的 车 和 旁边 两辆车 的 车窗 被 砸破
+16,null,null,自己 车里 装着 两万多元 现金 的 背包 也 被盗 走
+838 15
+ (14,15)
+1,null,null,三侠 中
+2,null,null,老胡 比较 内向
+3,null,null,不爱 说话
+4,null,null,他 觉得
+5,null,null,救 被 砍 的 女子 也 是 救 砍 人 的 男子
+6,null,null,老胡 在 郑州 开 了 一家 装修 公司
+7,null,null,6 月 12 日 这天
+8,null,null,记者 找到 他 的 公司
+9,null,null,进门 说明 原委
+10,null,null,公司员工 才 知道
+11,null,null,老 胡救 了 人
+12,null,null,要不是 你 来 采访
+13,null,null,我们 还 一直 蒙在鼓里
+14,surprise,吃惊,老胡 的 弟弟 很 吃惊
+15,null,null,哥哥 救人 后 对 家人 一个 字 也 没 提
+1951 15
+ (2,4)
+1,null,null,这 两天
+2,happiness,兴奋,乐清市 柳 市镇 的 6 岁 男孩 小黄 很 兴奋
+3,null,null,因为 幼儿园 小朋友 们 答应 他
+4,null,null,要 来 他家 参观 钢铁 侠
+5,null,null,前 阵子
+6,null,null,小黄 的 80 后 老爸 亲手 制作 了 一件 钢铁 战衣
+7,null,null,变 身 现实 版 钢铁 侠
+8,null,null,相当 拉风
+9,null,null,向 全国 网友 讨教 经验 34 岁 的 黄楚 出身 医生 世家
+10,null,null,开 有 一家 诊所
+11,null,null,这个 忙碌 的 老爸 不仅 没有 休息日
+12,null,null,而且 每天 要 到 晚上 7 点半 以后 才能 下班
+13,null,null,每天 只能 睡觉 前 给 儿子 讲讲 故事
+14,null,null,黄楚 说
+15,null,null,自己 总 觉得 陪 儿子 的 时间 太 少
+1148 14
+ (6,5)
+1,null,null,3 月 24 日
+2,null,null,腾讯 微 博里 一组 老人 给 羊羔 做 人工呼吸 的 照片 迅速 传播 开来
+3,null,null,照片 中
+4,null,null,一位 衣着 朴素 的 老人
+5,null,null,紧抱 奄奄一息 的 羊羔
+6,sadness,伤心,显得 异常 伤心
+7,null,null,发 这组 照片 的 网友 署名 林世有
+8,null,null,随后
+9,null,null,众多 网友 纷纷 转发 这组 照片
+10,null,null,并 表示 被 这 张超 有 爱 的 照片 感动 得 流泪
+11,null,null,昨日 上午
+12,null,null,记者 辗转 找到 林世有
+13,null,null,并 根据 其 提供 的 线索 来到 宝鸡市 陈仓 区 虢 镇 东堡 村 一组
+14,null,null,寻找 照片 上 的 老人
+275 15
+ (5,4)
+1,null,null,他们 婆媳 之间
+2,null,null,本来 就常因 琐事 争执
+3,null,null,我 帮 谁 也 不是
+4,null,null,看到 老婆 和 我 父母 关系 这么 僵
+5,sadness,无奈,我 也 很 无奈
+6,null,null,一边 是 生 我养 我 的 父母
+7,null,null,一边 是 老婆 女儿
+8,null,null,我 真的 不 知道 该 怎么办
+9,null,null,昨日
+10,null,null,凌峰 在 电话 中 告诉 记者
+11,null,null,当时 自己 夹 在 中间 十分 为难
+12,null,null,当时 家庭 条件 也 不好
+13,null,null,母亲 还 要求 交 200 元 生活费
+14,null,null,所以 就 找 朋友 借 了 钱
+15,null,null,干脆 搬家
+943 18
+ (9,8)
+1,null,null,10 月 20 日
+2,null,null,长春 净 月 高新技术 产业 开发区 人民法院 针对 这 起纠纷 进行 诉前 调解
+3,null,null,最终
+4,null,null,经 法院 调解
+5,null,null,双方 达成协议
+6,null,null,村委会 于 10 月 28 日前 给付 王女士 全部 欠款
+7,null,null,当时 以为 法院 给判 了
+8,null,null,钱 终于 能 回来
+9,happiness,兴奋,我们 心里 都 挺 兴奋 的
+10,null,null,没想到 还是 不行
+11,null,null,王女士 说
+12,null,null,等到 10 月 28 日
+13,null,null,村干部 回答 是
+14,null,null,目前 村里 实在 拿不出 这笔 钱
+15,null,null,一个 村委会
+16,null,null,8000 块钱 拿 不 出来
+17,null,null,王女士 不 认可
+18,null,null,向 法院 申请 强制执行
+1472 15
+ (12,12), (13,12)
+1,null,null,小玲称
+2,null,null,在 北京 天天 与 阿辉 待 在 一起
+3,null,null,经常 出入 宾馆
+4,null,null,一 开始
+5,null,null,小玲 住校
+6,null,null,为了 见 阿辉 一面
+7,null,null,她 不惜 爬墙 出走
+8,null,null,后来 两人 干脆 住进 了 出租屋
+9,null,null,与 阿辉 交往 半年 后
+10,null,null,年仅 14 岁 的 小玲 发现自己 怀孕 了
+11,null,null,作为 未婚 且 未成年 妈妈
+12,happiness,喜悦,小玲 并 没有 感受 到 新 生命 带来 的 喜悦
+13,fear,恐惧,而是 恐惧
+14,null,null,经过 与 阿辉 的 商谈 后
+15,null,null,两人 决定 不要 这个 孩子
+1627 13
+ (7,7)
+1,null,null,据 欧洲 时报 网 报道
+2,null,null,巴黎 警方 相关 消息 称
+3,null,null,20 日 晚间
+4,null,null,一名 涉嫌 于 上周四 （ 19 日 ） 在 巴黎 十三 区 的 皮 提耶 - 萨尔 佩特里 厄尔 （ Piti é - Salp ê tri è re ） 医院 地下室 强奸 26 岁 中国 女 游客 的 年轻 男子 被 警方 逮捕
+5,null,null,据 巴黎 人报 报道
+6,null,null,19 日 凌晨 5 点
+7,fear,惊吓,一位 26 岁 的 中国 女 游客 因 被 SNCF 办公室 起火 冒出 的 浓烟 惊吓
+8,null,null,离开 了 在 巴黎 里昂 火车站 附近 居住 了 一周 的 宾馆
+9,null,null,离开 途中 遇到 一 年轻 男子 主动 提出 陪同 游览 巴黎
+10,null,null,男子 利用 了 女 游客 的 天真 单纯
+11,null,null,将 其 带到 皮 提耶 - 萨尔 佩特里 厄尔 （ Piti é - Salp ê tri è re ） 医院 地下室
+12,null,null,实施 强奸
+13,null,null,随后 男子 抢走 女 游客 的 钱包 手机 和 照相机 后 逃跑
+28 12
+ (7,7)
+1,null,null,不仅 是 对 尹家 的 3 个 孩子
+2,null,null,在 街坊邻居 中
+3,null,null,张崇贞 也 有着 他人 不能 及 的 好 名声
+4,null,null,任何 人家 需要 帮忙
+5,null,null,她 总是 一口 答应
+6,null,null,几十年 里
+7,happiness,敬重,张崇贞以 她 的 品格 赢得 了 所有人 的 敬重
+8,null,null,尹春丽 的 母亲 也 早已 将 这位 比 她 年长 三十 来 岁 的 保姆
+9,null,null,视为 自己 的 亲生 母亲
+10,null,null,我 妈妈 后来 将 所有 的 钱 都 放在 奶奶 那里
+11,null,null,由 她 当家
+12,null,null,她 才 是 我们 家 的 最高 权威
+1078 10
+ (5,5)
+1,null,null,今年 6 月 8 日
+2,null,null,有 网民 在 哈尔滨市 道里区 政府 的 官方 网页 民生 民意 栏目 当中 留言
+3,null,null,我 是 道里区 海 富康 城 小区 B 高 1 的 居民
+4,null,null,我家 旁边 开了个 宝贝 幼儿园
+5,disgust,烦躁,每天 老师 和 孩子 的 吵闹声 搞 得 我 退休 在家 的 母亲 烦躁 难熬
+6,null,null,今年 已 住院 两次
+7,null,null,我 详细 了解 到 宝贝 幼儿园 无 执照
+8,null,null,这样 的 幼儿园 是不是 该取 谛
+9,null,null,老百姓 们 求 您 去 调查 调查 这个 黑 幼儿园 吧
+10,null,null,谢谢您 了
+1809 21
+ (21,21)
+1,null,null,经 核实
+2,null,null,张文侠 案发前 为 马河 涯 教学点 负责人
+3,null,null,此 教学点 学生 110 名
+4,null,null,半年 级 一年级 二年级 共 四个 班
+5,null,null,目前
+6,null,null,教学秩序 正常
+7,null,null,白恒建 说
+8,null,null,对于 网友 反映 张文侠 在 鲁义 寨 小学 和 徐马寨 中学 任教 期间 曾 诱骗 多名 少女 致使 一名 13 岁 左右 少女 怀孕 的 事情
+9,null,null,教育部门 不 清楚
+10,null,null,以前 也 没有 人向 教育部门 反应 过
+11,null,null,24 日 下午
+12,null,null,市 教育局 接到 警方 通知
+13,null,null,当即 对 其 做出 免职 处理 的 决定
+14,null,null,局 党委 要求 警方 对 犯罪 嫌疑人 从严处理
+15,null,null,我 知道 此事 后 很 是 气愤
+16,null,null,现在 出门 都 觉得 很 丢人
+17,null,null,做 为 教育局长
+18,null,null,我 觉得 无脸 面对 学生家长
+19,null,null,无法 向 社会 交代
+20,null,null,白恒建 说
+21,disgust,丢人,完原 标题 小学校长 涉嫌 猥亵 女童 被 刑拘   教育局长 称 觉得 丢人
+284 13
+ (9,10)
+1,null,null,两人 9 日 已 由 户政事务 所 人员 进入 看守所
+2,null,null,在 管理员 戒护 下 签字 结婚
+3,null,null,不过
+4,null,null,因为 蔡京京 与 曾智忠 皆 为 在押 被告
+5,null,null,因此 即使 结婚 也 无法 独处
+6,null,null,但 可 申请 会面
+7,null,null,由 所方视 情况 核淮
+8,null,null,对此
+9,happiness,激动,蔡京京 父亲 蔡金 进则 激动 表示
+10,null,null,女儿 竟 在 母亲节 前夕 与 杀 她 妈妈 的 凶手 结婚
+11,null,null,对 妈妈 而言 会 死不瞑目
+12,null,null,并称 对于 这种 婚姻
+13,null,null,无法 祝福
+1586 12
+ (12,12)
+1,null,null,5 天前
+2,null,null,江西 来汉 打工 的 49 岁 男子 兰细兵
+3,null,null,在 传送带 下 捡拾 垃圾
+4,null,null,右 手臂 不幸 被 机器 完全 绞断
+5,null,null,16 名 工友 献血 加上 医院 紧急 手术
+6,null,null,其 断臂 昨日 已 成功 接活
+7,null,null,记者 昨日 在 汉口 161 医院 看到
+8,null,null,兰细兵 的 右臂 仍 包裹 着 厚厚 纱布
+9,null,null,但 16 位 工友 的 血 已 在 他 的 右臂 畅通 流动
+10,null,null,各项 生命 体征 平稳
+11,null,null,断臂 完全 接活
+12,fear,心有余悸,上周日 的 险情 仍 让 兰细兵 心有余悸
+701 19
+ (12,11)
+1,null,null,一 开始
+2,null,null,女老板 只 安排 她 给 客人 洗头 打扫卫生 之类 的 杂活
+3,null,null,可 几天 后
+4,null,null,李常娇 发现 这个 发廊 很 不 正常
+5,null,null,来 的 顾客 都 是 一些 男 的
+6,null,null,且 大部分 不 洗头 不 理发
+7,null,null,而是 直接 由 洗发 妹带 进 包厢 按摩
+8,null,null,没 见过世面 的 李常娇
+9,null,null,不 知道 按摩 是 什么 工作
+10,null,null,便 咨询 其它 洗发 妹
+11,null,null,当 得知 所谓 的 按摩 具体内容 后
+12,fear,害怕,李常娇 害怕 得 哭 了 起来
+13,null,null,叫嚷 着 要 走
+14,null,null,此时
+15,null,null,女老板 露出 了 真相 面孔
+16,null,null,称 自己 付 了 5000 元 钱 给 河南 男子
+17,null,null,想 走 没 那么 容易
+18,null,null,李常娇 这 才 意识 被 骗 了
+19,null,null,但 为时已晚
+991 28
+ (4,3), (16,14)
+1,null,null,易 某军 交代
+2,null,null,2013 年 以来
+3,null,null,其 发现 妻子 黄某 和 一名 五六十岁 的 男子 有 通奸 行为
+4,anger,生气,因此 很 生气
+5,null,null,今年 7 月 21 日 早上 8 时许
+6,null,null,其买 了 一把 水果刀
+7,null,null,和 岳父 黄某 一起 去 该 男子 住处
+8,null,null,当时 一直 敲门 却 不 开门
+9,null,null,过 了 大约 十分钟 之后
+10,null,null,其 妻子 黄某 打开 了 门
+11,null,null,而 该 男子 却 躲 在 里面 一个 小房间 不敢 出来
+12,null,null,其 当时 便 欲 砍 门
+13,null,null,此时 妻子 和 岳父 前来 夺刀
+14,null,null,结果 混乱 当中 刀子 捅 到 了 妻子 和 岳父
+15,null,null,两 人流 了 很多 血
+16,fear,害怕,自己 感到 害怕
+17,null,null,便 扔下 刀子 逃离 了 现场
+18,null,null,易 某军 交代
+19,null,null,其 离开 事发 现场 之后
+20,null,null,便 乘 大巴车 到 了 长沙
+21,null,null,下车 后 刚好 看到 有 到 深圳 的 大巴车
+22,null,null,就 上车 来到 了 深圳
+23,null,null,到 了 深圳 的 这 两个 多月 里
+24,null,null,刚 开始 的 几天
+25,null,null,是 在 龙岗区 平湖 街道 靠 捡 垃圾 为生
+26,null,null,后来 一直 在 火车站 广场 一带 流浪
+27,null,null,在 被 警方 抓住 之前
+28,null,null,一直 靠 捡 垃圾 为生
+1884 15
+ (6,5)
+1,null,null,今日 阳泉 矿区 警方 宣布 这起 拐卖儿童 案 告破
+2,null,null,抓获 犯罪 嫌疑人 5 名
+3,null,null,7 月 16 日
+4,null,null,男子 张某 向 阳泉 矿区 警方 投案自首
+5,null,null,称 自己 和 前妻 李某 及 前妻 母亲 岳某 将 刚出生 70 天 的 儿子 以 4 万元 的 价格 卖 给 了 一个 平定 人
+6,sadness,后悔,现在 后悔莫及
+7,null,null,请求 民警 帮忙 寻找
+8,null,null,接报 后
+9,null,null,警方 立即 抽调 精干 警力 成立 专案组
+10,null,null,当晚 18 时
+11,null,null,民警 将 李某 和 其 母亲 带回
+12,null,null,经 讯问
+13,null,null,张某 和 李 某于 今年 6 月 办理 了 离婚 手续
+14,null,null,两 人均 无业
+15,null,null,之前 已育 有 两女
+489 14
+ (8,7)
+1,null,null,但是 此时
+2,null,null,也许 孩子 在 水中 呆 的 时间 太长 了
+3,null,null,扒 着 冰面 的 双手 力量 越来越 小
+4,null,null,以至于 身子 开始 往下沉
+5,null,null,不一会儿 只能 看到 头部 了
+6,null,null,天气 太冷 了
+7,null,null,孩子 待 在 水里 的 时间 太长 了
+8,fear,紧张,张东武 想到 这里 心里 越发 紧张
+9,null,null,想 赶紧 把 孩子 弄 上来
+10,null,null,张东武 心想 不能 干 等 民警
+11,null,null,没有 了 砸 冰 的 石头
+12,null,null,他 就 握紧 双手
+13,null,null,用 拳头 破冰
+14,null,null,希望 能够 尽快 到 孩子 身边
+1476 13
+ (2,2)
+1,null,null,2011 年 6 月 13 日
+2,happiness,满心欢喜,刚刚 结束 中考 的 杨蒙 满心欢喜
+3,null,null,一直 以来 都 是 学校 学霸 的 她
+4,null,null,这 一次 自信 满满
+5,null,null,一定 能够 考上 当地 最好 的 高中
+6,null,null,然而 就 在 第二天 一早
+7,null,null,杨蒙 却 发现 脖子 上 肿起 了 一个 鼓包
+8,null,null,在 当地 医院 就诊 时
+9,null,null,医生 表示 只要 吃些 消炎药 即可
+10,null,null,然而 一周 之后
+11,null,null,杨蒙 却 在 身上 发现 了 另 一个 鼓包
+12,null,null,这 一次
+13,null,null,换 到 华西 医院 检查 的 杨蒙 最终 被 确诊 为 T 淋巴 母细胞 瘤 白血病
+2031 17
+ (10,9)
+1,null,null,近日
+2,null,null,海口 市民 周先生 从 澄迈县 一 农民 手里 淘来 一个 古董
+3,null,null,对方 给 周先生 找钱 时
+4,null,null,找 给 他 两张 与众不同 的 10 元真币 一张 没有 水印
+5,null,null,另 一张 却 多 了 一个角
+6,null,null,经 初步 估价
+7,null,null,两张 人民币 收藏 价值 达 9 万元
+8,null,null,既 淘到 宝贝
+9,null,null,又 意外 收获 两张 极具 收藏 价值 的 人民币
+10,happiness,高兴,周先生 很 是 高兴
+11,null,null,本报 见习 记者   余枫   摄影 报道 农村 淘宝 找回 两张 怪币 海口 市民 周先生 告诉 记者
+12,null,null,事情 发生 于 12 月 6 日
+13,null,null,之前 我 听 一个 朋友 说 澄迈县 一户 农民 家里 有 一鼎 祖传 香炉
+14,null,null,便 决定 去 看看
+15,null,null,来到 该 农民 家
+16,null,null,看 完 古董 后
+17,null,null,双方同意 以 520 元 成交
+1708 21
+ (3,2), (3,2)
+1,null,null,近日
+2,null,null,株洲 连发 六 起 售楼 人员 被 抢劫案件
+3,fear&fear,恐慌&恐慌,在 当地 房产 销售 从业人员 中 引起 恐慌
+4,null,null,昨日
+5,null,null,株洲 警方 向 媒体 发布 通报 称
+6,null,null,该 系列 案件 成功 告破
+7,null,null,犯罪 嫌疑人 李某 被 刑拘
+8,null,null,1 月 1 日 上午 10 时许
+9,null,null,一名 中年男子 来到 株洲市 天元区 黄山 路 一家 楼盘 的 售楼 中心
+10,null,null,售楼员 冯 小姐 带 其 看房
+11,null,null,进入 样板房 后
+12,null,null,男子 关上 房门
+13,null,null,突然 掏出 一把 工具 刀
+14,null,null,捆住 冯 的 手脚
+15,null,null,抢走 其 身上 的 手机 首饰 手表
+16,null,null,然后 逃离 了 现场
+17,null,null,包括 上述 案件 在内
+18,null,null,前后 一周
+19,null,null,在 株洲 城区 及 株洲县 连发 6 起 类似 案件
+20,null,null,最后 一起 发生 在 1 月 6 日
+21,null,null,受害人 均 为 独自 带 客户 看房 的 女 售楼员
+1304 11
+ (8,7)
+1,null,null,前日
+2,null,null,在 成都市 一 医院 重症 监护室 住 了 4 天 的 徐伟 化名 转到 了 普通 病房
+3,null,null,家人 想 和 他 交流 让 他 动动 身体
+4,null,null,又 怕 他 累 到 怕 他 没法 动
+5,null,null,因为 徐伟 的 脑部 受了伤
+6,null,null,7 月 22 日 早上
+7,null,null,徐伟 和 邻居 因 挪车 产生矛盾
+8,anger,愤怒,邻居 在 愤怒 之下
+9,null,null,将车 钥匙 刺进 了 徐伟 头部 左侧
+10,null,null,金属 端 插进 头部 2 厘米
+11,null,null,伤及 大脑
+1352 14
+ (11,10)
+1,null,null,昨日 上午
+2,null,null,记者 在 汊涧镇 漂牌 村委会 副 主任 倪玉平 的 带领 下来 到 原魏 明华 居住 的 房屋 前
+3,null,null,只见 这座 房屋 大门 上 的 铁锁 已 锈迹斑斑
+4,null,null,水井 的 井口 也 已 布满 了 蜘蛛网
+5,null,null,房前 屋后 长满 了 荒草
+6,null,null,记者 透过 窗户 发现
+7,null,null,屋内 本来 用于 睡觉 的 木床 已 被 拆卸 了 好几块
+8,null,null,凌乱 地 躺 在 地上
+9,null,null,这座 房屋 现在 已 是 人 去 屋空 了
+10,null,null,提起 癌症
+11,fear,恐惧,村里人 都 感到恐惧
+12,null,null,村民 张友 余 说
+13,null,null,他 的 嫂子 吴德平 前些 日子 被 查出 患有 食道癌
+14,null,null,现 正在 南 医大 附属 二院 化疗
+1345 22
+ (2,1), (22,21)
+1,null,null,蜗牛 死 了
+2,sadness,伤心,青青 很 伤心
+3,null,null,青青 是 个 80 后
+4,null,null,蛮 漂亮 的
+5,null,null,她 说
+6,null,null,美容 保养
+7,null,null,是 她 这辈子 最 重要 的 事
+8,null,null,听说 蜗牛 霜 美容
+9,null,null,青青 突发奇想
+10,null,null,买来 蜗牛
+11,null,null,直接 放在 脸上 美容
+12,null,null,看看 效果 还 不错
+13,null,null,但是 昨天
+14,null,null,蜗牛 死 了
+15,null,null,青青 这下 慌 了 — —   蜗牛 怎么 死 的
+16,null,null,如果 是 蜗牛 体质 不好
+17,null,null,它 的 黏液 会 不会 有 问题
+18,null,null,那 我 的 脸 岂 不是 遭殃 了
+19,null,null,如果 是 我 的 皮肤 有 问题
+20,null,null,那 蜗牛 被 我 折腾 死 的 吗
+21,null,null,一连串 猜疑
+22,disgust,心烦意乱,让 青青 心烦意乱
+822 15
+ (3,3), (5,4)
+1,null,null,今年
+2,null,null,臧虹凯 以 629 分 的 优异成绩 考入 了 中央财经 大学
+3,happiness,高兴,收到 录取 通知书 后 的 他 十分高兴
+4,null,null,但 想到 每学期 的 学费
+5,disgust,犯起了愁,他 又 犯起 了 愁
+6,null,null,考虑 几日 后
+7,null,null,臧虹凯 决定 去 上 大学
+8,null,null,哥哥 已经 毕业 了
+9,null,null,虽然 家里 供不起 自己 上学
+10,null,null,但 他 要 靠 打工 挣 学费
+11,null,null,高考 后 臧虹凯 立即 到 常熟 的 一家 制衣厂 打工
+12,null,null,由于 左手 残疾
+13,null,null,不能 干重 活
+14,null,null,他 就 干些 挑 线头 打包 到 仓库 拿 东西 之类 力所能及 的 活
+15,null,null,但是 这些 工资 对 他 来说 还是 杯水车薪
+973 11
+ (1,4)
+1,sadness,伤心,更 让 杨 女士 夫妇 伤心 的 是
+2,null,null,由于 治疗 期间 用 了 很多 药
+3,null,null,会 对 孩子 产生 很大 影响
+4,null,null,因此 不得不 进行 流产
+5,null,null,记者 获悉
+6,null,null,昨日 上午
+7,null,null,杨 女士 才 去 妇科 做 了 检查
+8,null,null,等 过 两天 身体 恢复 点
+9,null,null,就要 去 做 流产 手术 了
+10,null,null,为了 给 妻子 治疗
+11,null,null,夏 先生 至今 已花 了 7 万余元 医疗费
+1448 12
+ (10,9)
+1,null,null,报告 中 提到
+2,null,null,检察机关 去年 对 从 申诉 或 办案 中 发现 的 呼格 吉勒 图 故意 杀人 流氓 案 黄家 光 故意 杀人案 等 冤错 案件
+3,null,null,认真 复核 证据
+4,null,null,依法 提出 纠正 意见
+5,null,null,监督 支持 法院 纠错
+6,null,null,曹建明 在 北京 做 报告 的 时候
+7,null,null,重获 自由 的 黄家 光 正在 3400 多公里 之外 的 海南省 家中 静养
+8,null,null,在 电视 上 看 新闻
+9,null,null,看到 自己 被 写 进 最高检 的 报告 当中
+10,happiness,高兴,黄家 光 很 高兴
+11,null,null,他 希望 司法公正 不断进步
+12,null,null,他 期盼 自己 是 最后 一宗 冤案
+1955 11
+ (6,4)
+1,null,null,日前
+2,null,null,上海 铁路 警方 已 将 这名 笨贼 抓获归案
+3,null,null,日前
+4,null,null,失主 郭小姐 乘坐 K11 次列车 时 发现自己 的 书包 被 偷
+5,null,null,包内 有 自己 刚 买来 的 一台 笔记本电脑
+6,fear,心急如焚,郭小姐 顿时 心急如焚
+7,null,null,急忙 向 上海 铁路 警方 报案
+8,null,null,由于 案发 时间 是 在 半夜
+9,null,null,车厢 内 的 旅客 都 已 睡 下
+10,null,null,经过 大量 的 走访 排摸
+11,null,null,警方 仍 是 毫无 头绪
+1851 25
+ (7,6)
+1,null,null,妈妈 从 仙桃 来 给 我 送 钥匙
+2,null,null,还 把 清洁 给 做 了
+3,null,null,当天 来 当天 就 走 了
+4,null,null,昨日 一早
+5,null,null,提起 母亲 从 老家 坐火车 来
+6,null,null,就 为了 给 她 送 备用 钥匙
+7,happiness,感动,叶 小姐 既 感动 又 惭愧
+8,null,null,叶 小姐 是 名 90 后
+9,null,null,大学毕业 后 留在 武汉 工作
+10,null,null,一人 在 武汉 独居
+11,null,null,父母 则 在 仙桃 老家
+12,null,null,偶尔 来 探望 她
+13,null,null,上 周六 晚上
+14,null,null,叶 小姐 加班 回家 发现 钥匙 不见 了
+15,null,null,开 不了 门
+16,null,null,她 唯一 的 一把 备用 钥匙
+17,null,null,被 母亲 带走
+18,null,null,留在 了 仙桃
+19,null,null,当晚 叶 小姐 只好 借宿 朋友 家中
+20,null,null,第二天 一早
+21,null,null,她 给 母亲 夏 女士 打电话
+22,null,null,请 她 将 备用 钥匙 从 仙桃 快递 过来
+23,null,null,电话 那头
+24,null,null,母亲 一口 回绝 了 快递 当天 到 不了
+25,null,null,我 给 你 送过来
+545 22
+ (15,14)
+1,null,null,8 年前
+2,null,null,老 陈 经常 肚子疼
+3,null,null,腹股沟 部位 鼓起 了 两个 小包 块
+4,null,null,在 当地 医院 检查 是 疝气
+5,null,null,需要 手术
+6,null,null,听说 要花 好几千
+7,null,null,老 陈 决定 不 治
+8,null,null,这些 年
+9,null,null,腹部 的 包块 越长越 大
+10,null,null,像 挂 着 两个 小 皮球
+11,null,null,每回 干活 一 用劲
+12,null,null,包块 就 往外 掉 出来
+13,null,null,痛得 他 直 冒 冷汗
+14,null,null,看着 父亲 带病 操劳
+15,sadness,心疼不已,两姐妹 心疼 不已
+16,null,null,去年
+17,null,null,女儿 双双 被 武汉 一所 重点 大学 录取
+18,null,null,入学 后
+19,null,null,两姐妹 暗地里 商量
+20,null,null,要 发奋 学习
+21,null,null,拿到 奖学金
+22,null,null,给 父亲 凑钱 治病
+1688 22
+ (14,14)
+1,null,null,1 月 28 日 中午
+2,null,null,来自 老家 的 那个 电话 将 他 心中 的 诸多 梦想 都 击碎 了
+3,null,null,电话 那头 120 工作人员 的 话语
+4,null,null,王志勇 开始 并 不 相信
+5,null,null,但 在 听到 儿子 的 哭喊声 后
+6,null,null,连夜 赶 了 回来
+7,null,null,妈妈
+8,null,null,我 的 耳朵 还 会长 出来 吗
+9,null,null,头上 包 着 纱布 的 凡 凡 问道
+10,null,null,杨 红艳 将 儿子 搂入 怀里
+11,null,null,失声痛哭
+12,null,null,看着 天真烂漫 的 凡 凡
+13,null,null,大家 都 不是 滋味
+14,fear,担心,我 最 担心 的 是 以后 孩子 上 学会 被 别的 孩子 笑话
+15,null,null,他会 失去 自信
+16,null,null,庆幸 的 是
+17,null,null,凡凡 的 右耳 已经 接活
+18,null,null,已有 医院 愿意 提供 帮助
+19,null,null,免费 为 他 再造 左耳
+20,null,null,凡凡 睡觉时 碰到 耳朵 会 疼
+21,null,null,涂药 时 也 疼
+22,null,null,但凡 凡 只 喊 疼 却 从来不 哭
+2089 13
+ (6,4)
+1,null,null,她 家住 海曙 翠柏 东巷
+2,null,null,儿子 今年 4 岁
+3,null,null,4 月 4 日 下午 1 点多
+4,null,null,她 带 着 儿子 去 买 了 辆 儿子 念叨 很久 的 自行车
+5,null,null,从 自行车 店 出来 后
+6,happiness,兴奋,儿子 兴奋 地 在 马路上 骑 了 起来
+7,null,null,吴 女士 一手 护着 孩子
+8,null,null,一 手拿着 自己 的 拎包
+9,null,null,下午 1 点 15 分 左右
+10,null,null,母子俩 走 至 钱东 社区 对面 人行道 上时
+11,null,null,突然 有个 陌生 男子 从 后面 蹿 出来
+12,null,null,夺走 吴 女士 手上 的 拎包
+13,null,null,拔腿就跑
+1587 12
+ (8,7)
+1,null,null,39 岁 的 贺 拥平 强忍 着 泪水 对 法制 周报 记者 说起 女儿 的 情况
+2,null,null,10 个 月 女儿 还 坐不稳 2000 年
+3,null,null,家住 湖南 湘乡 的 贺 拥平 与 尹美连 结婚 了
+4,null,null,生活 虽 不 富裕
+5,null,null,但 却 幸福 和 美
+6,null,null,法制 周报 新闻热线 0731 - 84802117 不久
+7,null,null,儿子 贺相龙 出生 了
+8,happiness,欢喜,贺拥平 心中 甚 是 欢喜
+9,null,null,2002 年
+10,null,null,贺拥 平带 着 妻子 和 儿子 来到 湘阴县
+11,null,null,他 每天 外出 做工
+12,null,null,妻子 则 留在 家中 照顾 儿子
+310 12
+ (8,7)
+1,null,null,接连 发生 的 人 和 货车 的 事故
+2,null,null,让 他 欠下 外债 18 万
+3,null,null,陈怀军 一夜 白头
+4,null,null,过年 了
+5,null,null,债主 把 家里 粮食 都 搬走 了 快 过年 了
+6,null,null,别家 都 在 欢欢喜喜 过年
+7,null,null,而 俺家 过年 连 割肉 的 钱 都 没有
+8,sadness,抱头痛哭,我 和 母亲 抱头痛哭
+9,null,null,陈怀军 的 五 女儿 陈变玲 说
+10,null,null,2001 年底
+11,null,null,有个 叫 王明 化名 的 债主 找上门来 要账
+12,null,null,把 家里 剩余 粮食 都 搬走 了
+1895 13
+ (7,8)
+1,null,null,记者 说 你 感受 到 了 她 的 拽
+2,null,null,这种 感受 让 你 不 愉快
+3,null,null,他 沉默 了 约 一分钟 说 她 在 外面 拽 没关系
+4,null,null,我 不 喜欢 她 在 家里 拽
+5,null,null,如果 当初 知道 她 会 当 老板
+6,null,null,我 根本 不会 娶 她
+7,anger,愤怒,这番话 揭示 了 林峰 愤怒 的 真正 原因
+8,null,null,他 有些 敏感 的 自尊 受到 了 伤害
+9,null,null,重庆 女人 以 能干 著称
+10,null,null,所谓 女强 男弱 的 家庭 很多
+11,null,null,受 中国 传统 文化 影响
+12,null,null,在 这种 婚姻 中 的 男人 女人 都 容易 有 压力
+13,null,null,夫妻关系 变得 有些 微妙
+996 18
+ (11,9)
+1,null,null,11 月 9 日晚 8 时许
+2,null,null,周 海涛 驾驶 自己 的 银灰色 面包车
+3,null,null,在 成都市 桂溪 立交桥 下 接到 了 赵可
+4,null,null,此时
+5,null,null,他 的 车上 装着 胶带 绳子 剪刀 警棍
+6,null,null,还 悄悄 换上 了 一块 偷来 的 车牌
+7,null,null,在 车上 将 对方 绑架   曾 威胁 要 将 其 活埋 车子 快开 到 简阳 时
+8,null,null,周 海涛 假称 要 到 后座 拿点 东西
+9,null,null,在 车上 对 赵可 实施 了 绑架
+10,null,null,手脚 被 捆绑 的 赵可 被 扔 到 了 面包车 后座
+11,fear,惊恐万分,在 那里 渡过 了 惊恐万分 的 23 个 小时
+12,null,null,在 这 期间
+13,null,null,周 海涛 白天 很少 停车
+14,null,null,晚上 就 找个 偏僻 处 停下
+15,null,null,在 车里 睡觉
+16,null,null,因为 在 赵可 的 包里 没 找到 什么 收获
+17,null,null,周 海涛 先是 强迫 其 给 朋友 打电话 假装 借钱
+18,null,null,不过 都 没有 成功
+162 9
+ (5,6)
+1,null,null,2014 年 11 月 10 日 上午 11 时 52 分
+2,null,null,沙湾县 公安局 四道 河子 派出所 接到 辖区 外来 务工人员 许某 电话 报警 称 自己 快要 被 妻子 打死 了
+3,null,null,请求 派出所 民警 救救 他
+4,null,null,值班 民警 迅速 赶许 某 所述 地点
+5,surprise,震惊,当 民警 赶到 时 看到 了 让 人 震惊 的 一幕
+6,null,null,一名 30 多岁 的 男子 蜷缩 在 角落 上身 赤裸 并 伴随 着 全身 青紫 的 伤痕
+7,null,null,眼神 透露 着 绝望 的 表情
+8,null,null,看到 此景
+9,null,null,民警 立即 将 该 男子 送往 镇 卫生院 救治
+184 21
+ (14,12)
+1,null,null,两个 月 前
+2,null,null,走投无路 的 贺 先生 只好 回到 老家 宁波
+3,null,null,尝试 联系 自己 的 子女
+4,null,null,多年未见
+5,null,null,子女 心中 难免 有所 怨恨
+6,null,null,态度 极为 冷淡
+7,null,null,都 不愿 见面
+8,null,null,后来
+9,null,null,有 朋友 把 他 的 近况 告诉 了 张女士
+10,null,null,张女士 说 我 原本 只是 想 去 看看 他 现在 过得 多 落魄 看看 他 悔不当初 的 样子
+11,null,null,可 没想到
+12,null,null,见到 他 满面 病容 老态龙钟
+13,null,null,张女士 说
+14,sadness,酸楚,她 当时 心中 一阵 酸楚
+15,null,null,没 考虑 太 多
+16,null,null,就 把 贺 先生 接 回家 中
+17,null,null,昨天 才 跟 两个 孩子 商量 好
+18,null,null,同意 他们 爸爸 搬回来
+19,null,null,不管 以后 怎样
+20,null,null,夫妻 一场
+21,null,null,我 还是 决定 陪 着 他 走 下去 照顾 他
+1810 25
+ (11,10)
+1,null,null,24 岁 的 小叶 白白净净
+2,null,null,长得 不错
+3,null,null,因 不甘 在 老家 农村 苦守
+4,null,null,便 跑 到 南京 来 打工
+5,null,null,在 一家 小 公司 做 一个 前台
+6,null,null,勉强 维持 在 宁 基本 开支
+7,null,null,今年 年前
+8,null,null,公司财务 突然 吃紧
+9,null,null,工资 发放 告急
+10,null,null,这 让 小叶 的 生活 更加 捉襟见肘
+11,disgust,郁闷,为了 排遣 郁闷
+12,null,null,小叶 沉溺于 网络 世界
+13,null,null,今年 元月 一天
+14,null,null,她 在 微信 上 认识 了 同城 男子 夏某
+15,null,null,夏某 自称 是 单身
+16,null,null,是 本地人
+17,null,null,家中 好几套 住房
+18,null,null,从不 为 钱 发愁
+19,null,null,两人 年纪 相仿
+20,null,null,便 热络 起来
+21,null,null,知道 小叶 的 困境 后
+22,null,null,夏某 表示 小叶 姿色 不错
+23,null,null,可以 利用 这个 资源 赚钱
+24,null,null,并 主动 提出 让 小叶 陪 他
+25,null,null,事后 给 她 3000 元援 交费
+573 13
+ (10,10)
+1,null,null,办案 民警 决定 做梅 某 在 京 家人 的 工作
+2,null,null,促使 其 早日 投案自首
+3,null,null,曹 警官 几番 周折 联系 到梅 某 的 丈夫 尤 先生
+4,null,null,几年 前
+5,null,null,梅某 在 京 经商 期间
+6,null,null,与 尤 先生 结婚
+7,null,null,婚后 两人 生活 幸福
+8,null,null,并 有 了 一个 可爱 的 女儿
+9,null,null,尤 先生 称
+10,fear,着急,他 和 孩子 许久 见 不到 妻子 都 很着急
+11,null,null,也 一直 担心 妻子
+12,null,null,一定 全力 配合
+13,null,null,尽快 找到 梅某
+134 22
+ (21,22)
+1,null,null,据丁 双琴 的 婶婶 介绍
+2,null,null,12 月 20 日 星期六
+3,null,null,丁双琴 吃 了 中饭 到 古镇 一家 银行 给 同学 汇款
+4,null,null,因 不 知道 怎么 转账 就 回来 了
+5,null,null,回来 时 情绪低落
+6,null,null,无论 自己 怎么 询问
+7,null,null,丁双琴 都 说 没事
+8,null,null,21 日 上午
+9,null,null,丁双琴 照常上班
+10,null,null,但 情绪 仍然 很 低落
+11,null,null,中午 在 工厂 食堂 草草 吃 了 几口 饭后 便 走出 厂外
+12,null,null,然而
+13,null,null,当天 下午 上班 时
+14,null,null,她 却 没有 看到 丁双琴 的 身影
+15,null,null,于是 马上 给 丁 双琴 母亲 打电话
+16,null,null,当时 由于 工厂 内 声音 嘈杂
+17,null,null,丁双琴 的 母亲 并未 能 接到 电话
+18,null,null,下午 6 点
+19,null,null,丁双琴 的 妈妈 看到 有 未接 来电 便 打 回 给 我
+20,null,null,直到 这时
+21,fear,害怕,我们 开始 害怕 了
+22,null,null,丁双琴 不见 了
+1386 18
+ (16,15)
+1,null,null,昨天
+2,null,null,记者 联系 上 了 赵森 在 北京 的 上司 客户经理 李女士
+3,null,null,她 表示
+4,null,null,赵森 在 北京 工作 四五年
+5,null,null,一直 表现 很 好
+6,null,null,工作 也 很 拼命
+7,null,null,到 了 杭州 后
+8,null,null,可能 因 面临 新 的 环境
+9,null,null,他 对 自己 的 要求 更 高 了
+10,null,null,工作 压力 也 很大
+11,null,null,李女士 说
+12,null,null,上个月
+13,null,null,她 和 北京 的 同事 们 来 医院 看 他 时
+14,null,null,赵森 还 在 昏迷 中
+15,null,null,如今 得知 他 恢复 得 不错
+16,happiness,高兴,她 与 其他 同事 都 替 他 高兴
+17,null,null,赵森 目前 智力 正在 恢复
+18,null,null,但 有 感染 危险
+1234 11
+ (4,3)
+1,null,null,2012 年初
+2,null,null,张鹏 与 父亲 到 李娟家 探亲
+3,null,null,见 张鹏 一表人才
+4,happiness,欢喜,李娟 的 家人 十分 欢喜
+5,null,null,双方 家人 见面 后 一致同意 张鹏 与 李娟 继续 交往
+6,null,null,可 张鹏 与 父亲 走后
+7,null,null,李娟 的 父母 等 亲属 开始 担心 双方 恋爱 失败 了 怎么办
+8,null,null,经过 一番 讨论
+9,null,null,李娟 的 家人 想出 了 一个 两全其美 的 办法 向 张鹏 借款 10 万元
+10,null,null,若 他 能够 借款 既 能 体现 其 家庭 的 经济 实力
+11,null,null,又 能 给 恋爱 关系 提供 一个 坚实 的 保障
+217 12
+ (11,10)
+1,null,null,2014 年 1 月 24 日
+2,null,null,吴某 应小梅 之 约 在 衢州市 衢江区 樟潭 街道 一家 宾馆 见面
+3,null,null,两人 再次发生 有偿性 关系
+4,null,null,其后
+5,null,null,小梅 提出 要 与 吴 某 断绝关系
+6,null,null,吴某 不肯
+7,null,null,两人 发生争执
+8,null,null,小梅 对 吴 某 表现 出 厌恶
+9,null,null,并称 要 叫 人来
+10,null,null,吴某 见 小梅 不念旧情 每次 约会 都 要 用钱 维系 关系
+11,anger,一怒之下,一怒之下 吴 某用 双手 用力 掐小梅 的 脖子
+12,null,null,直至 小梅 死亡
+1761 28
+ (24,22)
+1,null,null,据 美国全国广播公司 报道
+2,null,null,在 被害者 家中 被 发现 时
+3,null,null,嫌疑人 光着 的 双脚 沾满 鲜血
+4,null,null,身旁 有 菜刀 和 一把 剪刀
+5,null,null,班克斯 说
+6,null,null,被害者 颈部 和 躯干 均 有 刀伤
+7,null,null,警方 抵达 时 他们 已经 失去 意识
+8,null,null,凶案 现场 让 人 永远 无法 忘记
+9,null,null,他们 被 人用 菜刀 砍死
+10,null,null,班克斯 说
+11,null,null,我们 找到 了 那 把 刀
+12,null,null,附近 居民 鲍勃 · 马登 描述
+13,null,null,他 看到 一名 男子 被 警方 从楼 内带 出
+14,null,null,这名 男子 赤脚 穿着 牛仔裤
+15,null,null,面 无表情
+16,null,null,凝视 前方
+17,null,null,被害者 一家 的 男主人 案发时 不 在家
+18,null,null,附近 居民 拉里 说
+19,null,null,他 看到 这名 失去 家人 的 男子 回到 家中
+20,null,null,他 大喊 自己 是 父亲
+21,null,null,然后 冲 进 家中
+22,null,null,警方 通过 中文翻译 告知 他 妻儿 都 不幸遇害 的 噩耗
+23,null,null,男子 哭 到 歇斯底里
+24,sadness,伤心欲绝,伤心欲绝
+25,null,null,只有 真正 邪恶 的 人才 会用 刀 刺 向 孩子
+26,null,null,邻居 迈克尔 · 詹 音译 说
+27,null,null,刺向 孩子 的 人 是 禽兽
+28,null,null,只有 禽兽 才 会 这么 做
+557 8
+ (5,4)
+1,null,null,彭亮 介绍
+2,null,null,生病 一年多来
+3,null,null,同学 和 老师 都 给 了 他 很多 帮助
+4,null,null,社会 上 的 好心人 也 纷纷 向 他 伸出 援手
+5,happiness,感动,让 他 很 感动
+6,null,null,或许 是因为 病痛
+7,null,null,他 不 忌讳 谈 死亡
+8,null,null,反而 觉得 多活 一天 是 幸运 的
+862 15
+ (8,7)
+1,null,null,今年 2 月
+2,null,null,一次 化疗 过后
+3,null,null,牛香莲 突然 休克
+4,null,null,幸亏 同 病房 的 病友 发现 了
+5,null,null,及时 喊 来 医生
+6,null,null,让 她 捡回 了 一条 命
+7,null,null,这件 事 让 牛香莲 感到 害怕 我怕 哪一天 我 突然 走 了 女儿 都 不知情
+8,sadness,伤心,该 多 伤心
+9,null,null,为此
+10,null,null,她 找到 孩子 的 班主任 和 特别 要 好 的 两位 同学
+11,null,null,我 告诉 了 他们 实情
+12,null,null,让 他们 先 保密
+13,null,null,如果 哪一天 我 真的 走 了
+14,null,null,让 他们 告诉 女儿
+15,null,null,好好 地 安慰 女儿
+1564 5
+ (5,4)
+1,null,null,王国 云说
+2,null,null,买台 电视
+3,null,null,平时 可以 打发 时间
+4,null,null,毕竟 自己 一个 人
+5,sadness,孤独,有时 还是 很 孤独
+1798 17
+ (13,11)
+1,null,null,我 进入 影楼 后
+2,null,null,先是 坐在 店门口 柜台 里 的 电脑前 选 照片
+3,null,null,我装 钱 和 放 手机 的 包 就 放在 身后
+4,null,null,随后 在 选 照片 时
+5,null,null,我 和 影楼 工作人员 发生 分歧
+6,null,null,工作人员 要求 我 前往 店内 后侧 的 柜台 重新 填 单子
+7,null,null,我 起身 填完 单子 返回 时
+8,null,null,才 发现 原来 放在 沙发 上 的 包 不翼而飞
+9,null,null,刘女士 告诉 记者
+10,null,null,由于 一时 大意
+11,null,null,包内 巨额 现金 被盗
+12,null,null,血汗钱 不翼而飞
+13,fear,心急如焚,刘女士 心急如焚
+14,null,null,急忙 报警 并 联系 超市 物业 调取 监控 录像
+15,null,null,录像 显示 伸手 盗窃 的 窃贼 是 一位 6 旬 老人
+16,null,null,而 窃贼 作案 的 整个 过程
+17,null,null,被 超市 里 的 监控 录像 全程 记录下来
+2021 10
+ (6,5)
+1,null,null,另外
+2,null,null,前 几天 罗玉凤 上 了 江苏 卫视 著名 的 情感 类 访谈 节目 人间
+3,null,null,罗玉凤 还 解释 了 为什么 要 与 湖南 小伙 前男友 分手
+4,null,null,重新 找 了 个 长相 很 好 月 收入 数万 的 男生
+5,null,null,因为 前男友 长相 比较 难看
+6,disgust,丢脸,带回家 去 很 丢脸
+7,null,null,凤姐 热 引爆 网络
+8,null,null,三大 流派 PK 目前
+9,null,null,罗玉凤 小组 和 罗玉凤 贴 吧 已经 相继 成立
+10,null,null,百科 也 已 出现 了 罗玉凤 词条
+1872 15
+ (9,8)
+1,null,null,洛伦兹 于 1989 年 遇见 霍尔 德 的 父亲
+2,null,null,并于 2003 年 结婚
+3,null,null,三年 后 离婚
+4,null,null,他们 还育 有 一个 女儿
+5,null,null,即 霍尔 德 同父异母 的 妹妹
+6,null,null,此外
+7,null,null,霍尔 德 自己 也育 有 一个 和 其 妹妹 年龄 相仿 的 女儿
+8,null,null,洛伦兹 说 离婚 令 我 很 意外
+9,sadness,伤心,更令 我 的 女儿 伤心 不已
+10,null,null,但是 霍尔 德给 了 我们 很大 的 支持
+11,null,null,我们 的 感情 也 随之 发展 起来
+12,null,null,霍尔 德 和 洛伦兹 的 友情 发展 成 爱情 后 不久
+13,null,null,霍尔 德 就 求婚 了
+14,null,null,但是 很快 就 受到 法国 法律 的 阻挠
+15,null,null,因为 法国 法律 禁止 继子 与 继 父母 甚至 与 前 继 父母 结婚
+301 18
+ (14,13)
+1,null,null,李美佳闭 着 眼睛 静静地 躺 在 病床 上
+2,null,null,不时 地伸 一下 腿
+3,null,null,扭 一下脸
+4,null,null,看到 有人 到来
+5,null,null,胡艳娜 趴在 女儿 耳朵 旁 低声 喊 着 孩子
+6,null,null,醒醒 吧
+7,null,null,你 看看
+8,null,null,叔叔 阿姨 都 来看 你 了
+9,null,null,就 在 这时
+10,null,null,李美佳 居然 睁开 了 眼睛
+11,null,null,嘴角 还 带 着 微笑
+12,null,null,孩子 醒来 了
+13,null,null,孩子 醒来 了
+14,happiness,激动,胡艳娜 激动 地喊 着
+15,null,null,欣喜万分
+16,null,null,也许 是 太累 了
+17,null,null,小美佳 睁开眼睛 看 了 看 周围 的 人
+18,null,null,又 慢慢 地闭 上 了 眼睛
+82 8
+ (8,7)
+1,null,null,2 月 13 日 一大早
+2,null,null,当 项目组 民警 押 着 犯罪 嫌疑人 并 带 着 解救 回来 的 小鑫鑫 凯旋归来
+3,null,null,一下 高速 口
+4,null,null,就 受到 了 闻讯赶来 的 志愿者 团队 的 热情欢迎 和 慰问
+5,null,null,上午 10 时
+6,null,null,李世铭 一家 闻讯 后 赶到 侯马市 公安局 门口
+7,null,null,看到 失而复得 的 儿子
+8,happiness,泪流满面,一家人 禁不住 泪流满面
+1426 19
+ (16,14)
+1,null,null,警讯 中
+2,null,null,王嫌 供称 他 先前 到 光华 商场 送修 笔记本电脑
+3,null,null,等待 期间 逛 到 申弘 公司 选看 一部 高价 计算机 时
+4,null,null,店员 讥讽 他 这台 你 买不起
+5,null,null,你 看别 台
+6,null,null,他 觉得 受到 羞辱
+7,null,null,才 找 上罗嫌 帮忙 找人 砸 店 报复
+8,null,null,罗嫌 则 供称 替王 嫌 出气
+9,null,null,找来 2 名 网吧 认识 的 朋友 一起 行动
+10,null,null,不过
+11,null,null,店员 对 羞辱 王嫌 一事 却 毫无 印象
+12,null,null,警方 访查 店家
+13,null,null,也 得知 王嫌 与 申弘 公司 的 刘姓 老板 认识
+14,null,null,案发前 曾 向 刘 借钱 不成
+15,null,null,气呼呼 离去
+16,disgust,怨恨,不 排除 他 为此 心 生 怨恨
+17,null,null,蓄意 砸 店 报复
+18,null,null,昨天 先依 毁损 及 恐吓罪 嫌 送 办
+19,null,null,并 追缉 在 逃 共犯
+2072 10
+ (4,3)
+1,null,null,小张 回想起来
+2,null,null,这名 男子 之前 跑 到 办公室 来 推销 过 室外 灯具
+3,null,null,刚才 你 是不是 在 女厕所 偷拍
+4,anger,气愤,小张 很 气愤
+5,null,null,男子 拿出 一只 白色 手机
+6,null,null,坚持 自己 没有 偷拍
+7,null,null,小张 发现 男子 偷拍 时用 的 是 一只 黑色 手机
+8,null,null,于是 要求 男子 将 黑色 手机 拿 出来
+9,null,null,男子 不肯
+10,null,null,小张 和 同事 马上 报警
+116 10
+ (3,3)
+1,null,null,但 黄姓 少女 认为 没 必要 赴约
+2,null,null,跟 陈姓 男友 及 另一名 友人 到 台北市 忠孝东路 麦当劳 聚餐
+3,anger,气愤,没想到 学姐 被 放鸽子 后 更加 气愤
+4,null,null,撂 了 十多人 直奔 现场 砍 人
+5,null,null,黄姓 少女 的 男友 及 友人 遭 砍伤
+6,null,null,其中 一人 双手 被 砍
+7,null,null,另一人 刀伤 可见 骨
+8,null,null,民众 惊 见 连忙 报案
+9,null,null,双方 人马 才 四散 逃逸
+10,null,null,所幸 两人 送医 后 均 无 生命危险
+1777 22
+ (16,15)
+1,null,null,当车 行至 公长 高速 路口 时
+2,null,null,林某 走 到 司机 座位 旁边
+3,null,null,一脚 踩住 了 他 正 踩 着 油门 的 右脚
+4,null,null,一手 用力 拉 公交车 的 方向盘
+5,null,null,公交车 一下子 开始 加速 行驶 了
+6,null,null,大感 意外 的 司机 用力 抓住 方向盘
+7,null,null,车才 没有 偏离 行驶路线
+8,null,null,司机 让 林 某 走开
+9,null,null,林某 也 没有 理会
+10,null,null,正巧 前方 路口 是 红灯
+11,null,null,车道 前方 有 一辆 大 货车 正在 等 红灯
+12,null,null,眼看 着 就要 追尾 了
+13,null,null,但林 某 的 脚 始终 没有 松开
+14,null,null,公交 司机 一边 大 喊救命
+15,null,null,一边 用 左脚 踩 刹车 但 没有 刹住
+16,fear,情急,情急之下
+17,null,null,司机 只好 把 车 强行 打向 右边
+18,null,null,避过 前面 的 货车
+19,null,null,在 红绿灯 路口 中间 才 把 公交车 停 了 下来
+20,null,null,由于 惯性
+21,null,null,林某 站不稳 向前 扑倒
+22,null,null,撞裂 了 公交车 的 前 挡风玻璃
+1832 13
+ (10,9)
+1,null,null,赵某 曾 因 盗窃罪 于 2000 年 被 判处 有期徒刑 6 个 月
+2,null,null,又 因 寻衅滋事 于 2008 年 被 判处 有期徒刑 2 年
+3,null,null,武昌区 法院 审理 认为
+4,null,null,赵某 在 公共场所 随意 伤害 他人 身体
+5,null,null,致 2 人 轻伤
+6,null,null,情节恶劣
+7,null,null,其 行为 已 构成 寻衅滋事 罪
+8,null,null,又系 累犯 应当 从重 处罚
+9,null,null,而 在 公共场所 无故 咬伤 他人
+10,fear,恐慌,引发 公众 恐慌
+11,null,null,严重 影响 社会秩序
+12,null,null,可以 酌情 从重 处罚
+13,null,null,法院 遂 作出 以上 一审判决
+385 10
+ (10,9)
+1,null,null,我 真 后悔 把 他 送 那 里面 去
+2,null,null,最后 的 日子
+3,null,null,他 太 孤独 了
+4,null,null,如果 有 亲人 在 身边
+5,null,null,他 心里 会 舒服 一点
+6,null,null,也许 他 不会 走得 那么 早
+7,null,null,可是
+8,null,null,高敏 没 办法
+9,null,null,看着 日渐 憔悴 的 姚望 舟
+10,fear,害怕,她 害怕
+339 14
+ (11,10)
+1,null,null,去年 9 月
+2,null,null,夏宇 在 招远市 人民 医院 被 诊断 为 恶性肿瘤 晚期
+3,null,null,当时 觉得 肯定 查错 了
+4,null,null,不 可能 是 真的
+5,null,null,无法 接受 这个 结果
+6,null,null,王扬 又 陪 着 男友 到 济南 检查
+7,null,null,结果 依然
+8,null,null,王扬 又 陪 着 男友 回到 招远 继续 治疗
+9,null,null,约定 的 婚期 近 了
+10,null,null,男友 的 身体状况 却 越来越 差
+11,fear,担心,担心 等 不到 那天
+12,null,null,王扬作 了 个 大胆 的 决定
+13,null,null,提前 结婚
+14,null,null,早点 成为 这个 对 自己 好 的 男人 的 新娘
+921 24
+ (11,9)
+1,null,null,富裕县 的 王 某 与 赵 某系 东西 院 邻居
+2,null,null,两家 相处 了 10 多年
+3,null,null,平时 谁家 有个 大事 小情 儿
+4,null,null,都 能 互相 前来 帮忙
+5,null,null,关系 处 得 十分 融洽
+6,null,null,但是 从 去年 入秋 以来
+7,null,null,王某 却 感觉 到 了 赵某 和 妻子 王 某某 关系 似乎 有些 不 正常
+8,null,null,因为 王某 两次 偶然 回家
+9,null,null,都 碰到 赵某 与 妻子 王 某某 单独 在 一起
+10,null,null,虽然 没 发现 什么 证据
+11,disgust,不舒服,但 也 让 王 某 感到 十分 不 舒服
+12,null,null,1 月 1 日
+13,null,null,王某 与 妻子 一起 去 岳父 家过 元旦
+14,null,null,出门 的 时候
+15,null,null,王某 无意间 发现 赵某 在 门口 偷 瞄王 某某
+16,null,null,与 岳父 喝完 酒 回家 后
+17,null,null,王某 忍不住 问 妻子 你 和 赵某 到底 有没有 事
+18,null,null,王 某某 顿时 矢口否认
+19,null,null,王某 借着 酒 劲儿 从柜 顶上 翻 出 一把 杀猪刀
+20,null,null,恶狠狠 地 对 妻子 说 今天 你 要 不 说实话
+21,null,null,我 就 杀 了 你
+22,null,null,王 某某 吓 的 跪 在 地上
+23,null,null,没敢 说 她 与 赵某 通奸
+24,null,null,谎称 被 赵某 强奸 了
+1937 14
+ (9,8)
+1,null,null,孙某 交代
+2,null,null,今年 3 月
+3,null,null,他 从 老家 到 温州 打工
+4,null,null,孙某 于 3 月 12 日到 龙湾 某 鞋厂 工作
+5,null,null,由于 工作 表现 不佳
+6,null,null,被 领导 辞退 — — 这 已 是 本个 月 来 他 第二次 被 辞
+7,null,null,接连 几天 找 不到 工作
+8,null,null,身上 的 钱 又 花光 了
+9,disgust,心烦意乱,孙某 心烦意乱
+10,null,null,干起 了 傻事
+11,null,null,3 月 17 日晚
+12,null,null,孙某 在 工地 上 找到 了 一根 钢管
+13,null,null,准备 在 夜深人静 时 砸 车窗
+14,null,null,偷点 钱
+709 19
+ (8,7), (14,13)
+1,null,null,面对 铁了心 的 妻子
+2,null,null,任强 最终 同意 了
+3,null,null,提出 财产 平分
+4,null,null,儿子 由 他 抚养
+5,null,null,然而
+6,null,null,身受 家庭 争吵 困扰 的 儿子
+7,null,null,当庭 表示 要 随 母亲 生活
+8,surprise,愕然,任强 很 愕然
+9,null,null,其 代理律师 湖北 珞珈 律师 事务所 赵志虎 介绍
+10,null,null,任强 曾 说
+11,null,null,老年 离婚 已 不幸
+12,null,null,余生 所 能 依靠 的 就是 儿子 了
+13,null,null,所以 当 儿子 选择 离 他 而 去 时
+14,sadness,伤心,任强 伤心 之 余
+15,null,null,希望 能 尽量 挽回 父子 感情
+16,null,null,而 任强 所能 做 的
+17,null,null,就是 在 物质 上 多 给 儿子 保障
+18,null,null,于是 将 家中 3 套 房产 及 60 余万元 现金 全部 让出
+19,null,null,自己 只 保留 一套 房产 一辆 车子 以及 面临 倒闭 的 公司
+977 15
+ (3,3)
+1,null,null,据称 唐姓 杀害 孩子 之后 叫 其他 的 人 帮 他 报警
+2,null,null,人们 问 他 为什么 这样 做
+3,surprise,震惊,他 的 回答 让 人 震惊 我 养不起 了
+4,null,null,据 镇雄县 政府 新闻办 通报
+5,null,null,10 月 14 日
+6,null,null,镇雄县 牛场 镇 牛场 村 马鞍山 村民 唐明华 将 其子 唐家宇 杀死 家中
+7,null,null,案发后
+8,null,null,公安机关 查明
+9,null,null,唐明华 39 岁
+10,null,null,身体健康
+11,null,null,好逸恶劳
+12,null,null,育 一男一女
+13,null,null,其妻 因 无法忍受 其 懒惰成性
+14,null,null,于 三年 前带 小女儿 外嫁 他 乡
+15,null,null,唐明华则 带 儿子 唐家宇 一起 生活
+288 9
+ (8,7)
+1,null,null,中年 丧夫
+2,null,null,她 凭 一己 之力 将 5 个 孩子 拉扯 长大
+3,null,null,结婚 生子
+4,null,null,人到 晚年
+5,null,null,她 再次 承担 起 了 儿子 一家 五口 的 看病 饮食起居
+6,null,null,河南 中牟县 南仁村 72 岁 的 低保户 吕 兰芝
+7,null,null,借 外债 近 50 万元 执着 为 身患 白血病 的 孙子 治病 续命
+8,happiness,感动,感动 众多 网友
+9,null,null,被 网友 称赞 为 河南 最美 母亲 最美 奶奶
+91 8
+ (4,3)
+1,null,null,不久
+2,null,null,格瑞斯 发现自己 怀孕
+3,null,null,赫尔曼 发现 隐情 后
+4,sadness,伤心欲绝,伤心欲绝 地 离开
+5,null,null,前往 美国 后 再 无 音信
+6,null,null,赫尔曼 离开 后
+7,null,null,格瑞斯 产下 一名 女婴
+8,null,null,不久 遭到 未婚夫 抛弃
+956 11
+ (7,6)
+1,null,null,男子 阿强 常到 村里 五保 老人 安居 点 欺负 老人
+2,null,null,偷窃 甚至 抢夺 老人 生活用品
+3,null,null,虽然 老 人们 多次 报警
+4,null,null,但 阿强 仍 我行我素
+5,null,null,一次
+6,null,null,阿强 又 来到 老人院 欲 偷窃
+7,anger,激愤,激愤 之下
+8,null,null,年 逾 七旬 的 李 大爷 将 阿强 砍死
+9,null,null,昨日
+10,null,null,记者 从 广州市 萝岗 区法院 获悉
+11,null,null,李 大爷 因犯 故意杀人罪 被 判处 有期徒刑 7 年
+483 11
+ (9,9)
+1,null,null,2013 年 11 月 26 日
+2,null,null,在 离 刘辉 前夫 家仅 百余米 的 出租屋 内
+3,null,null,谈到 与 刘辉 的 结合
+4,null,null,老 吴 并 不 担心 照顾 不 过来
+5,null,null,她 一个 人 都 能行
+6,null,null,我 帮 一把
+7,null,null,她 不 就 轻松 一些 么
+8,null,null,这个 遭遇 过 一次 婚姻 挫折 的 5 旬 男人
+9,happiness,感动,在 了解 了 刘辉 的 经历 后 非常 感动
+10,null,null,两人 见面 后 不久
+11,null,null,就 用 自己 的 全部 存款 帮 刘辉 还 掉 了 给 前夫 建房 的 五万元 欠账
+57 12
+ (12,10)
+1,null,null,当时 家里 的 大事 小事 都 是 婆婆 当家做主
+2,null,null,侯爱红 说
+3,null,null,虽然 夫妻俩 的 感情 一直 很 好
+4,null,null,但 婆媳 问题 却 日渐 严重
+5,null,null,夹 在 中间 为难 的 郭永奎
+6,null,null,爱上 了 喝酒
+7,null,null,对 家里 的 事 不管不顾
+8,null,null,家中 所有 的 担子
+9,null,null,几乎 落 在 了 侯爱红 一个 人 身上
+10,null,null,面对 日益 找茬 的 婆婆 和 经常 醉酒 的 丈夫
+11,null,null,侯爱红 说
+12,sadness,无奈,她 在 无奈 之下 提出 了 协议 离婚
+1808 15
+ (2,1)
+1,null,null,因 恋爱 遭 反对 后
+2,anger,一怒之下,男子 一怒之下 将 前女友 母亲 勒死
+3,null,null,随后 又 于 当晚 将 前女友 骗 至 女方 老家 空宅
+4,null,null,欲 再 勒死 前女友
+5,null,null,这是 发生 在 赣州市 南康 的 一起 案件
+6,null,null,6 月 1 日
+7,null,null,陈某 因涉嫌 故意 杀人 被 南康 警方 刑事拘留
+8,null,null,6 月 14 日
+9,null,null,南康市 人民检察院 对 其 批准逮捕
+10,null,null,打工仔 与 女 教师 曾 相恋 我 终于 解脱 了
+11,null,null,6 月 1 日 11 时许
+12,null,null,在 前女友 晓萍 化名 的 陪同 下
+13,null,null,陈某 来到 南康市 公安局 刑侦 大队 自首
+14,null,null,在 向 值班 民警 说出 自己 杀人 的 事实 后
+15,null,null,他长 舒 了 一口气
+273 15
+ (5,4), (13,14)
+1,null,null,2009 年 春节前夕
+2,null,null,龙 婆婆 再次 拨通 儿子 电话
+3,null,null,希望 他 能 回家 过年
+4,null,null,儿子 也 同意 了
+5,happiness,高兴坏了,当时 我 和 我 老伴 高兴 坏 了
+6,null,null,立马 打电话 给 两个 女儿
+7,null,null,嘱咐 她们 那天 一定 要 早点 回家
+8,null,null,龙 婆婆 说
+9,null,null,那天 早上 五点
+10,null,null,老两口 就 起床 煲汤
+11,null,null,忙碌 了 一 早上 后
+12,null,null,终于 等到 了 多年不见 的 儿子
+13,sadness,失望,但 让 两人 失望 的 是
+14,null,null,儿媳 和 孙女 并 没有 一起 回家
+15,null,null,儿子 也 只 坐 了 几分钟
+947 18
+ (5,4)
+1,null,null,2013 年 11 月 14 日 晚上
+2,null,null,其 独自 在家 带 1 岁 零 2 个 月 的 女儿 在 北京市 朝阳区 某 小区 租住 的 房屋内 睡觉
+3,null,null,凌晨 2 点 左右
+4,null,null,因 女儿 哭闹 不止
+5,disgust,心烦,倍觉 心烦
+6,null,null,后 又 出现 幻听
+7,null,null,在 愈加 烦躁 的 状态 下 摇晃 女儿 身体
+8,null,null,将 其 头部 撞击 木柜 多次 致死
+9,null,null,读博 未果 患上 精神分裂 丽丽 自小 学习成绩 优异
+10,null,null,本科毕业 后 即 留校 任教
+11,null,null,后 又 考取 了 研究生
+12,null,null,2001 年
+13,null,null,她 又 顺利 考取 了 博士 研究生
+14,null,null,但 不幸 的 是
+15,null,null,2007 年 因故 未 完成学业
+16,null,null,这 对 她 来说 打击 很大
+17,null,null,致使 心理 长期 压抑
+18,null,null,久而久之 患上 了 精神分裂症
+245 8
+ (1,1)
+1,happiness,敬佩,66 岁 还 跳入 江水 救人 真是 令人 敬佩
+2,null,null,愿 老人 平安无事
+3,null,null,网友 边关 云为 陈福 元老 人 的 义举 点赞
+4,null,null,网友 不过 忧欢 也 在 担心 着 老人 的 安危
+5,null,null,希望 老人 也 早已 被 人 救出
+6,null,null,希望 奇迹 发生
+7,null,null,许多 网友 还 自发 在 网上 点燃 蜡烛
+8,null,null,为 老人 祈福
+1625 30
+ (2,4)
+1,null,null,昨日
+2,anger,气愤,租住 在 海口 一 小区 的 王先生 气愤 地 告诉 记者
+3,null,null,小偷 剪断 了 他家 窗户 防盗网
+4,null,null,把 锁 在 卧室 里 价值 80 万元 的 花梨木 偷走 了
+5,null,null,为了 尽快 破案
+6,null,null,王先生 在 小区 张贴 了 悬赏 10 万元 寻找 破案 线索 的 告示
+7,null,null,记者   廖 自如 / 文   李志良 / 图 王先生 介绍
+8,null,null,他 是 河南人
+9,null,null,在 海口 从事 花梨木 生意
+10,null,null,去年 6 月 8 日
+11,null,null,他 和 家人 开始 租住 在 海口 海甸 五 东路 的 春熙苑 小区
+12,null,null,王先生 告诉 记者
+13,null,null,6 月 6 日 下午
+14,null,null,妻子 打扫卫生 时 发现 窗户 防盗网 被 人 剪断 了
+15,null,null,赶紧 通知 了 出差 在外 的 他
+16,null,null,他 赶回 家 清点 发现
+17,null,null,堆放 在 卧室 里 的 5 条 花梨 圆木 2 个 花梨木 算盘
+18,null,null,总共 重达 170 斤 价值 80 万元 的 花梨木 被盗 一空
+19,null,null,王先生 立即 报警
+20,null,null,据 了解
+21,null,null,王先生 一家 租 的 是 两房一厅
+22,null,null,平时 他 妻子 和 孩子 住 在 西侧 房间
+23,null,null,收购 的 花梨木 则 放在 东侧 房间
+24,null,null,王先生 的 妻子 告诉 记者
+25,null,null,事发 当晚
+26,null,null,家里 只有 她 和 两岁 的 女儿
+27,null,null,并 没有 听见 异常 的 声音
+28,null,null,也 不 知道 小偷 是 什么 时候 入室 盗窃 的
+29,null,null,为了 尽快 破案
+30,null,null,王先生 在 小区 张贴 了 悬赏 10 万元 寻找 破案 线索 的 告示
+755 20
+ (10,9)
+1,null,null,17 年前
+2,null,null,一名 女孩 刚出生 时 被 亲生父母 抛弃
+3,null,null,之后 和 养父母 一起 生活
+4,null,null,女孩 14 岁 时
+5,null,null,养母 病逝
+6,null,null,她 便 承担 起 家务
+7,null,null,10 月 19 日
+8,null,null,养父 遭遇 车祸
+9,null,null,看着 躺 在 病床 上 昏迷不醒 的 爸爸
+10,fear,害怕,女孩 很 害怕
+11,null,null,如果 爸爸 像 妈妈 一样
+12,null,null,就 那么 走 了
+13,null,null,她 不敢 一个 人 回家 住
+14,null,null,住院费 够不够
+15,null,null,爸爸 病情 怎么样
+16,null,null,如何 和 对方 协商 赔偿
+17,null,null,一周 多来
+18,null,null,沉重 的 负担 落 在 女孩 肩上
+19,null,null,她 叫 沈童西
+20,null,null,就读于 新津 中学 高三
+1697 24
+ (16,15)
+1,null,null,1 月 23 日 报道
+2,null,null,美国 伊利诺伊州 警方 证实 称
+3,null,null,曼 德林 市 Mundelein 一名 14 岁 女孩 捅 11 岁 妹妹 40 刀致 其 死亡
+4,null,null,理由 竟是 她 觉得 妹妹 不 懂 感恩
+5,null,null,当地 时间 21 日 上午 8 点 30 分
+6,null,null,警方 接到 14 岁 女孩 报警
+7,null,null,称 有人 闯入 她家
+8,null,null,攻击 了 妹妹 后 逃离
+9,null,null,她 的 报案 导致 附近 3 所 学校 进入 一级 防范 状态
+10,null,null,但 这名 女孩 的 谎言 很快 被 揭穿
+11,null,null,在 警方 询问 下
+12,null,null,她 承认 自己 袭击 了 妹妹
+13,null,null,这名 女孩 告诉 警察
+14,null,null,她 为 妹妹 做饭 收拾 家务
+15,null,null,但 妹妹 对此 毫不 领情 上周 还 动手 打伤 了 她
+16,anger,愤怒,这 让 她 感到 愤怒
+17,null,null,在 思考 10 多分钟 后
+18,null,null,她 下楼 用刀 刺 死 了 妹妹
+19,null,null,随后
+20,null,null,她 清理 了 现场
+21,null,null,报警 并 编造 了 上述 故事
+22,null,null,曼 德林 市长 史蒂夫 · 伦茨 Steve   Lentz 说 这 是 一场 令人 心碎 的 惨剧
+23,null,null,让 人 难以 理解
+24,null,null,我 已经 请求 所有人 为 这个 破碎 的 家 祈祷
+1214 12
+ (5,4)
+1,null,null,随后
+2,null,null,工厂 以 吕某 不 遵守 厂规
+3,null,null,大闹 人事部 为 由
+4,null,null,解雇 了 吕某
+5,sadness,委屈,吕某 百般 委屈
+6,null,null,工作 也 丢 了
+7,null,null,她 认为 自己 没有 违反 任何 厂规
+8,null,null,便 向 仲裁庭 申请 劳动 仲裁
+9,null,null,请求 裁决 工厂 支付 违法 解除 劳动 关系 赔偿金 44591 元
+10,null,null,仲裁庭 后 驳回 其 请求
+11,null,null,吕某 不服
+12,null,null,于 2013 年 3 月 11 日向 法院 提出 起诉
+2075 9
+ (6,5)
+1,null,null,今年 1 月初
+2,null,null,阜阳 临沂 商城 的 商户 刘海 开着 刚 买 不久 的 宝马车
+3,null,null,来到 自家 店铺 办事
+4,null,null,事情 办完 出来
+5,null,null,刘海 看到 宝马车 从 车头 到 车尾 被划 了 一条 长长的 划痕
+6,anger,气愤,非常 气愤
+7,null,null,问 了 邻居 得知 是 一个 名叫 豆豆 的 6 岁 孩子 所 为
+8,null,null,其 家长 在 刘海 商铺 附近 开 了 一家 饭店
+9,null,null,随后 刘海 找到 了 豆豆 家
+1388 7
+ (3,2)
+1,null,null,短短 百日 内
+2,null,null,杭州 连发 两起 飙车 撞人案
+3,fear,心有余悸,着实 让 不少 人 心有余悸
+4,null,null,如何 才能 安全 过 马路
+5,null,null,昨日
+6,null,null,网友 穿 拖鞋 的 烟 在 某 网站 大杂烩 贴出 了 杭州 旅游 不 需过 马路 的 详细 攻略 的 帖子
+7,null,null,引起 网友 热议
+492 13
+ (13,12)
+1,null,null,1   月 20   日 上午
+2,null,null,望江县 华阳 镇 一所 学校
+3,null,null,学生 们 从 老师 手里 接过 成绩 报告 册
+4,null,null,愉快 的 寒假 正式 开始
+5,null,null,然而 就 在 当晚
+6,null,null,9   岁 的 三年级 学生 小林 化名 却 永远 地 离开 了 这个 世界
+7,null,null,孩子 被 发现 时
+8,null,null,缢死 在 厕所 的 横梁 上
+9,null,null,警方 初步 认定 是 自缢身亡
+10,null,null,学校 调查 称
+11,null,null,当天 吃晚饭 时
+12,null,null,孩子 外公 外婆 说 爸妈 不 回来 过年
+13,sadness,低落,小林 的 情绪 很 低落
+1971 9
+ (6,6)
+1,null,null,听闻 袁 女士 的 遭遇 后
+2,null,null,不少 人 还 总结 出 了 经验 有 条件 的 人
+3,null,null,最好 在 钱包 内放张 名片
+4,null,null,如果 碰上 好心 的 小偷
+5,null,null,搞不好 会 把 不值钱 的 证件 寄 回来
+6,disgust,鄙夷,偷窃 的 行为 确实 让 人 鄙夷
+7,null,null,但 对方 能 主动 归还 重要 证件
+8,null,null,也 算是 有点 盗德 吧
+9,null,null,袁 女士 的 邻居 开玩笑 地说
+1138 11
+ (8,8)
+1,null,null,据介绍
+2,null,null,因 城市 开发
+3,null,null,有 一条 新 设计 的 公路 要 经过 坪塘 村 的 祖坟 山
+4,null,null,村民 遂 请来 挖掘机 协助 迁坟
+5,null,null,3 月 30 日 下午
+6,null,null,村民 们 挖开 其中 一座 坟墓
+7,null,null,将 棺盖 打开 准备 捡拾 里面 的 尸骨 时
+8,surprise,惊讶,却 惊讶 地 发现 棺内 尸身 依然 完整
+9,null,null,除 面容 有些 变形 外
+10,null,null,尸身 包括 头上 的 发簪 身上 的 衣物 脚底 的 三寸金莲
+11,null,null,都 完好无损
+305 15
+ (9,9)
+1,null,null,有人 通过 各种 关系 向 参加 婚宴 的 人 求证 后 说 确实 是 新娘 啦
+2,null,null,村 里面 参加 的 人 有 不少 亲戚朋友 的
+3,null,null,两个 女 的 父母 也 都 在 婚礼 现场
+4,null,null,大家 纷纷 猜测
+5,null,null,新郎 或是 个 土豪
+6,null,null,但据 一位 知情 人士 透露
+7,null,null,史 某 家里 并 不 富有
+8,null,null,但史 某 男女关系 一直 比较复杂
+9,anger,愤慨,大多数 网友 对 这个 奇葩 婚礼 表示 了 愤慨
+10,null,null,诸多 网友 认为
+11,null,null,如果 这是 真的
+12,null,null,那 就是 对 法律 和 社会 道德 的 双重 践踏
+13,null,null,但 也 有人 认为
+14,null,null,如果 仅仅 是 恶搞
+15,null,null,也 没什么 大不了
+387 13
+ (7,6), (11,10)
+1,null,null,丽敏 看到 邢 大伟 的 衣服 掉 在 地上
+2,null,null,她 帮 着 收拾
+3,null,null,无意间 看到 衣服 口袋 里 的 手机
+4,null,null,她 出于 好奇 取出 手机 翻看
+5,null,null,结果 发现 手机 关机
+6,null,null,一个 生意人 平时 怎么 可能 关机
+7,disgust,起了疑心,丽敏 突然 起 了 疑心
+8,null,null,邢 大伟 的 手机 开机 密码 就是 丽敏 的 生日
+9,null,null,丽敏 顺利 地 打开 手机
+10,null,null,在 微信 中 她 发现 几条 信息内容 暧昧
+11,anger,火冒三丈,不由得 火冒三丈
+12,null,null,想想 自己 为 他 付出 那么 多
+13,null,null,他 竟然 还 与 其他 女人 有染
+1052 21
+ (20,19)
+1,null,null,救援 人员 找 来 渔船
+2,null,null,开着 强光 照明灯
+3,null,null,用 竹竿 渔网 搜救
+4,null,null,民警 在 摩托车 上 找到 了 一件 羽绒服 和 一部 手机
+5,null,null,随后
+6,null,null,跳河 女子 的 身份 被 确认
+7,null,null,系 五通桥区 杨柳镇 龙门 坝村 3 组 44 岁 的 村民 余立凤
+8,null,null,抱 着 的 孩子 是 她 7 岁 的 小儿子 小欧
+9,null,null,救援 一直 持续 到 昨日 凌晨 2 时许
+10,null,null,但 因 光线 太 差 水域 太宽
+11,null,null,仍 没有 找到 余立凤 和 她 的 儿子
+12,null,null,昨天上午 10 时 30 分许
+13,null,null,在 涌斯江 大桥 下游 约 1 公里 处
+14,null,null,发现 了 余立凤 和 小欧 的 踪影
+15,null,null,当 民警 拉开 余立凤 的 遗体 后 发现
+16,null,null,一根 红色 的 毛线 围巾
+17,null,null,一头 拴着 余立凤 的 右 手腕
+18,null,null,一头 拴着 小欧 的 左手腕
+19,null,null,看到 母子俩 的 遗体
+20,sadness,抱头痛哭,丈夫 欧某 和 大儿子 欧小某 抱头痛哭
+21,null,null,泣不成声
+713 15
+ (3,2)
+1,null,null,人家 丢 了 东西 多 着急 啊
+2,null,null,见 联系 不上 失主
+3,fear,着急,金恒林 十分 着急
+4,null,null,催促 儿子 想 办法
+5,null,null,实在 不行
+6,null,null,我们 就 交给 派出所 吧
+7,null,null,让 警察 帮忙 找 找
+8,null,null,母子 二人 又 等 了 一个多 小时 后
+9,null,null,只好 来到 附近 的 扬子 路 派出所
+10,null,null,然而 民警 告诉 他们
+11,null,null,捡钱 地点 并 不 属于 他们 辖区
+12,null,null,建议 母子 报警
+13,null,null,随后
+14,null,null,遵阳街 派出所 民警 在 得到 指令 后
+15,null,null,将 母子 接至 该 派出所
+2001 16
+ (3,7)
+1,null,null,溥仪 一伙人 逃至 吉林省 通化 大 栗子 沟后
+2,null,null,因 生存 危机 将 所 携 国宝 变卖 了 很多
+3,sadness,痛心,让 人 痛心 的 是
+4,null,null,在 逃亡 路上
+5,null,null,他 和朝臣 们 没有 吃 的
+6,null,null,就 拿 这些 价值连城 的 字画 古董 和 当地 农民 换 馒头 吃
+7,null,null,这 就 使得 大量 珍宝 流失 民间
+8,null,null,对于 大家 关心 的 这幅 画 的 真假 鉴别 问题
+9,null,null,套用 启功 先生 的话 说 鉴定 不是 简单 的 分 真伪
+10,null,null,它 有 一定 的 模糊 度
+11,null,null,从 古代 流传 下来 的 书画
+12,null,null,有 多种 情况
+13,null,null,是 真伪 两端 所 不能 概括 的
+14,null,null,如 把 真伪 二字套 到 一切 书画作品 上
+15,null,null,也 是 与 情理 不 符合
+16,null,null,不合逻辑 的
+1090 12
+ (6,5), (6,6)
+1,null,null,经 法医鉴定
+2,null,null,刘轩 的 损伤 构成 轻伤
+3,null,null,庭审 中
+4,null,null,李志辉 对 公诉 机关 指控 的 犯罪事实 没有 异议
+5,null,null,他 说 自己 觉得 妻子 给 他 戴 了 绿帽子
+6,anger,恼怒,感觉 窝囊 的 同时 一时 恼怒 才 持刀 捅 伤 了 刘轩
+7,null,null,不该 那么 冲动
+8,null,null,其后
+9,null,null,李志辉 与 刘轩 就 民事 赔偿 部分 达成协议
+10,null,null,主动 赔偿 刘轩 医药费 等 经济损失 4 万元
+11,null,null,刘轩 对 李志辉 的 行为 表示 谅解
+12,null,null,请求 对 其 从轻 处罚 并 撤回 了 对 李志辉 的 附带 民事诉讼
+192 7
+ (5,6)
+1,null,null,南 夏邑 一个 24 岁 的 农村 女孩 尹宾怡
+2,null,null,身高 1.7 米
+3,null,null,亭亭玉立
+4,null,null,就是 这样 一位 容貌 俊美 的 姑娘 却 不幸 患上 了 白血病
+5,happiness,感动,令人感动 的 是
+6,null,null,和 她 年 令 相差不多 的 哥哥 尹永涛 为了 挽救 妹妹 的 生命 为 她 做 了 5 次 骨髓移植
+7,null,null,诠释 了 兄妹 之间 割舍 不断 的 人间 真情
+560 21
+ (11,10)
+1,null,null,一辆 黑色 的 别克 凯越 小轿车 停 在 路边
+2,null,null,轿车 右轮 爆胎
+3,null,null,轮毂 上 仍 可见 血迹
+4,null,null,事发 的 幕府 东路 为 单向 5 车道
+5,null,null,公交 站台 位于 快车道 上
+6,null,null,非机动车 道 仍 在 修建 中
+7,null,null,扬子晚报 记者 找到 了 一位 目击者 高 先生
+8,null,null,也 就 几十秒 工夫
+9,null,null,人仰马翻
+10,null,null,三四个 人 先后 被 撞倒
+11,fear,吓死人,场面 吓死人 了
+12,null,null,高 先生 心有余悸 地说
+13,null,null,撞 人 的 黑色 小轿车 过 路口 时 速度 很快
+14,null,null,而且 接连 撞 了 3 次
+15,null,null,第一 撞路 人 被 撞 得 飞过 绿化带 根据 目击者 回忆
+16,null,null,小轿车 先是 撞 上 了 一名 30 岁 左右 的 男子
+17,null,null,男子 当即 被 撞 飞
+18,null,null,越过 约 70 厘米 宽 的 绿化带
+19,null,null,落到 了 旁边 的 非机动车 道 上
+20,null,null,侧卧 在 路面 上
+21,null,null,头部 流血
+581 11
+ (10,9)
+1,null,null,扶 起 老人 后
+2,null,null,男子 没有 一走了之
+3,null,null,他 见 阿婆 行动不便
+4,null,null,就让 她 坐 上 自己 的 电瓶车
+5,null,null,一起 送 孩子 去 上学
+6,null,null,随后 又 继续 送 阿婆 回家
+7,null,null,我怕 耽误 他 上班
+8,null,null,几次 谢绝 了 他 的 好意
+9,null,null,可 他 执意 要 送
+10,happiness,感动,让 我 很 感动
+11,null,null,送医 垫付 检查 费用 但 事情 并 没有 就此结束
+692 14
+ (13,12)
+1,null,null,从 7 岁 开始
+2,null,null,尽心 照顾 一位 远征军 遗孀
+3,null,null,一 幌 15 年 多
+4,null,null,常人 难以想象
+5,null,null,肖霞 是 怎么 做到 的
+6,null,null,2013 年 春节前夕
+7,null,null,记者 来到 偏僻 的 新宁县 回 龙寺 镇 增桥 村 采访
+8,null,null,这里 的 人 一 说起 肖霞
+9,null,null,就 竖起 大拇指 说
+10,null,null,细佗 肖霞 的 乳名 是 个 好 妹子
+11,null,null,一细佗 是 我 看着 长大 的
+12,null,null,她 对 蒋冬姣 的 那份 孝顺
+13,happiness,感动,确实 令人感动
+14,null,null,增桥 村村 主任 李 中杰 给 我们 讲述 了 肖霞 与 蒋冬姣 的 故事
+1318 19
+ (15,15)
+1,null,null,广告 以 一只 绿色 的 蝗虫
+2,null,null,爬 到 香港 狮子山 顶
+3,null,null,睥睨 香港 维港 为 背景图
+4,null,null,标题 是   你 愿意 香港 每 18 分钟 花 $ 1
+5,null,null,000
+6,null,null,000 养育 双非 儿童 吗
+7,null,null,广告 还 声称 香港 人
+8,null,null,忍够 了
+9,null,null,并 提出 诉求 强烈要求 政府 修订 基本法 24 条
+10,null,null,阻止 大陆 双非 孕妇 无限量 进入 香港
+11,null,null,广告 出街 后
+12,null,null,有 香港 网民 表示 支持 反蝗 和 修法 的 诉求
+13,null,null,也 有 网民 指出
+14,null,null,制止 内地 孕妇 赴 港产 子 不是 排外
+15,anger,愤怒,但 也 有 不少 内地 网民 对于 广告 羞辱 内地 人为 蝗虫 表示 愤怒
+16,null,null,认为 香港回归 多年
+17,null,null,香港 人 却 依然 歧视 内地 人
+18,null,null,甚至 看不起 普通话 和 简体字
+19,null,null,太不像话
+1344 20
+ (6,5)
+1,null,null,接下来 几天
+2,null,null,他们 每天 都 上山 寻找
+3,null,null,一找 就是 一整天
+4,null,null,但 几天 下来
+5,null,null,没有 发现 女孩 的 踪迹
+6,sadness,失望,失望 的 情绪 渐渐 弥漫 开
+7,null,null,但 在 7 月 3 日 下午
+8,null,null,民警 接到 一位 村民 打来 的 电话 我 在 吴地村 林场 一处 很 偏僻 的 山岗 砍柴 时
+9,null,null,遇到 一名 女孩
+10,null,null,很 像 你们 在 找 的 人
+11,null,null,民警 立即 上山
+12,null,null,在 爬 了 几个 小时 山路 后
+13,null,null,他们 见到 了 这名 女孩
+14,null,null,衣服 又 脏 又 破
+15,null,null,手脚 到处 是 被 蚊虫 叮咬 的 包包 和 一道道 划伤
+16,null,null,看起来 很 虚弱
+17,null,null,走路 摇摇晃晃
+18,null,null,说话 都 没 力气
+19,null,null,只是 讲 自己 太 多天 没 吃饭
+20,null,null,肚子 非常 饿
+1550 11
+ (5,5)
+1,null,null,2004 年
+2,null,null,陈礼忠 和 同事 在 巡逻 时 抓获 了 一个 盗车 团伙
+3,null,null,其 主犯 竟然 就是 谭 德林
+4,null,null,2004 年底
+5,sadness,伤心,谭 德林 因犯 抢劫罪 和 盗窃罪 被 判处 有期徒刑 13 年 隐瞒 真相 为了 不让 谭 德林 的 爷爷 伤心
+6,null,null,自此 之后 的 8 年 时间 里
+7,null,null,陈礼忠 和 村民 们 一直 瞒 着 爷爷 说 娃儿 去 广东 打工 了
+8,null,null,经常 来信
+9,null,null,告诉 爷爷 那边 很 好
+10,null,null,让 他 别 担心
+11,null,null,过 几年 就 回来 看 他
+307 18
+ (14,13)
+1,null,null,上 个 周末
+2,null,null,他 女朋友 突然 要 给 我 介绍 男朋友
+3,null,null,吴小姐 说
+4,null,null,那次 也 是 三个 人
+5,null,null,一起 去 商场 买 鞋子
+6,null,null,自己 和 男 闺蜜 的 女朋友 在 挑鞋 时
+7,null,null,男闺蜜 一直 在 做 参谋
+8,null,null,偶尔 还会 说 自己 的 腿 比 他 女朋友 的 细
+9,null,null,事后 大家 一起 吃饭
+10,null,null,在 饭桌 上
+11,null,null,女方 突然 说 有 个 条件 很 好 的 朋友
+12,null,null,想要 介绍 给 她
+13,null,null,不 知道 是不是 我 和 他 走 得 太近 了
+14,sadness,不高兴,他 女朋友 有点 不 高兴
+15,null,null,吴小姐 说
+16,null,null,因为 常常 三个 人 一起 在家 做饭吃
+17,null,null,男闺蜜 总是 先 称赞 她 的 厨艺
+18,null,null,再 称赞 女朋友
+1235 12
+ (3,2), (3,2)
+1,null,null,成都 市民 李小姐 买 了 一袋 阿胶 枣吃
+2,null,null,发现 其中 有 半只 长 翅膀 的 昆虫
+3,disgust&anger,恶心&愤怒,这 让 她 恶心 又 愤怒
+4,null,null,厂家 解释
+5,null,null,可能 是 在 生产 时 一只 采蜜 的 小蜜蜂 被 糖 吸引
+6,null,null,无意间 飞 了 进去
+7,null,null,1 月 3 日
+8,null,null,家住 成都 锦江区 天涯 石 的 李小姐 在 吃 阿胶 枣时
+9,null,null,发现 其中 有 半只 不明 昆虫
+10,null,null,虫 的 颜色 和 枣子 很 像
+11,null,null,透明 的 翅膀 紧紧 贴 在 枣子 上
+12,null,null,下半身 不见 了
+1017 17
+ (7,7)
+1,null,null,昨日
+2,null,null,死者 母亲 闻讯 后 赶到 现场
+3,null,null,确认 死者 就是 宋某
+4,null,null,记者 看到
+5,null,null,宋某 的 母亲 步履蹒跚
+6,null,null,走路 很 艰难
+7,sadness,伤心,看到 宋某 尸体 后 伤心 痛哭
+8,null,null,昨日
+9,null,null,案件 被害人 李女士 的 女婿 曹 先生 向 记者 介绍
+10,null,null,发现 宋某 死尸 的 地方 离 高桥镇 事发 地 只有 15 分钟 车程
+11,null,null,曹 先生 介绍
+12,null,null,一直 想 追问 宋某 杀人 的 原因
+13,null,null,到底 因为 什么 问题
+14,null,null,为何 不能 坐下 来 好好 解决
+15,null,null,另外
+16,null,null,希望 他 能 接受 到 法律 的 制裁
+17,null,null,而 不是 就 这么 死去
+21 11
+ (8,7)
+1,null,null,民警 将 老人 送到 南 钢厂 区
+2,null,null,问 了 半天
+3,null,null,陈 大爷 也 没有 说 清楚 他家 到底 该 怎么 走
+4,null,null,无奈 之下
+5,null,null,民警 只能 下车 逐一 询问 附近 的 居民
+6,null,null,最终 把 陈 大爷 安全 送 回家
+7,null,null,到家后
+8,happiness,笑了,陈 大爷 终于 笑 了
+9,null,null,连声 对 民警 道谢
+10,null,null,还 热情 挽留 民警 在家 吃晚饭
+11,null,null,但 被 民警 婉言谢绝
+594 13
+ (7,7)
+1,null,null,11 月 28 日
+2,null,null,本报 报料 热线 接到 彭 教授 的 电话
+3,null,null,她 说
+4,null,null,自己 年 过 八旬
+5,null,null,是 原 中山医科大学 的 退休 教授
+6,null,null,11 月 15 日 清晨
+7,fear,惊吓,她 在 广州 东湖 御苑 路口 被 疾停 的 汽车 惊吓
+8,null,null,虽未 被 撞
+9,null,null,但 连 退多步 摔倒
+10,null,null,司机 担心 其 假摔
+11,null,null,不敢 下车 扶
+12,null,null,在 这 危急关头
+13,null,null,一名 穿 校服 的 男生 将 她 扶 了 起来
+261 6
+ (4,4)
+1,null,null,收拾 柜子 时
+2,null,null,发现 了 父亲 已 尘封 50 多年 的 百余幅 画
+3,null,null,儿子 泪如雨下
+4,sadness,愧疚,愧疚 自己 对 父亲 了解 太 少
+5,null,null,这 几天
+6,null,null,他 给 父亲 在 微信 上 办 了 一场 特别 的 画展
+438 8
+ (8,8)
+1,null,null,说起 父母 为 自己 扫雪 的 场景
+2,null,null,彭彩琴 眼中 有 泪花 闪烁
+3,null,null,父母 都 60 多岁 了
+4,null,null,30 里 的 山路 呢
+5,null,null,她 说
+6,null,null,当 自己 脚下 踩 着 父母 扫出 的 山路 到 火车站 时
+7,null,null,内心 翻涌 着 的 不仅仅 是 感动
+8,sadness,遗憾,更 多 的 是 难以 在家 尽孝 的 遗憾
+125 16
+ (14,13)
+1,null,null,1974 年
+2,null,null,安继荣 在 蒲城县 三合 公社 今属 桥陵 镇任 武装 干事
+3,null,null,长 他 16 岁 的 郭 天禄 时任 公社 党委书记
+4,null,null,是 出了名 的 热心肠
+5,null,null,谁家 娃病 了 两口子 闹矛盾 了
+6,null,null,都 找 他 帮忙
+7,null,null,那 时候 粮票 都 紧张
+8,null,null,安继荣 回忆 说
+9,null,null,共事 的 三年 中
+10,null,null,郭 天禄 常常 资助 他
+11,null,null,每次 一到 饭点
+12,null,null,郭 天禄 总是 主动 掏 两个 人 的 粮票
+13,null,null,冬天 没有 取暖 设施 两个 人常 挤 在 一张 床上 睡
+14,happiness,感动,这 让 他 十分 感动
+15,null,null,我 只是 个 基层 的 小 干部
+16,null,null,他 把 我 当 兄弟 看
+952 17
+ (2,4)
+1,null,null,近日
+2,sadness,忧心忡忡,通州区 中仓 小区 的 多位 养狗 居民 忧心忡忡
+3,null,null,从 10 月 22 日 开始 的 十天 时间 里
+4,null,null,小 区内 陆续 有 多只 宠物狗 和 流浪狗 疑遭 投毒
+5,null,null,据 不 完全 统计
+6,null,null,至少 有 14 只 宠物狗 和 4 只 流浪狗 在此期间 死亡
+7,null,null,当地 派出所 证实
+8,null,null,已 接到 居民 报警
+9,null,null,并 加强 该 地区 巡逻
+10,null,null,多位 养狗 居民 告诉 记者
+11,null,null,从 10 月 22 日至 本月 1 日
+12,null,null,小 区内 不断 出现 宠物狗 死亡 事件
+13,null,null,都 是 在 小区 里 遛 完 之后
+14,null,null,回到 家 不 长时间 就 发病
+15,null,null,呕吐 抽搐 乱 蹬
+16,null,null,看着 特别 痛苦
+17,null,null,死不瞑目
+1414 13
+ (3,3)
+1,null,null,采访 中
+2,null,null,不断 有 居民 告诉 记者 小区 里 曾经 发生 的 入室 盗窃 事件
+3,anger,愤恨,而 盗贼 的 猖狂 也 让 小区 居民 感到 愤恨
+4,null,null,2 栋 8 楼 一家 住户
+5,null,null,头 一天 晚上 被 偷 了 钱包
+6,null,null,结果 第二天 晚上
+7,null,null,小偷 又 把 钱包 里 的 银行卡 和 别的 证件 扔 还 回来 了
+8,null,null,一个 与 这家 住户 女主人 熟识 的 居民 说
+9,null,null,这些 小偷 简直 是 在 挑衅
+10,null,null,物业 回复 住户 组成 复杂 管理 难度 大 单元 门口 的 防盗门
+11,null,null,以前 都 是 刷卡 才能 进出
+12,null,null,现在 已经 坏 了 几年
+13,null,null,都 没人管
+1874 16
+ (4,5)
+1,null,null,5 日   23 时   30 分许
+2,null,null,煤厂 西侧 的 三间 房屋 发生 了 坍塌
+3,null,null,屋里 的 家具 连同 房顶 都 掉 进 了 房屋 底下 的 一个 大 口 水井 里
+4,sadness,痛心,最 痛心 的 是
+5,null,null,正在 睡觉 的 一对 中年 夫妻 也 坠入 井里
+6,null,null,事发 后
+7,null,null,当地 公安消防 等 部门 赶往 现场 救援
+8,null,null,救援 人员 介绍
+9,null,null,井水 最深处 约 三米
+10,null,null,根本 看到 不到 被困 者
+11,null,null,他们 只得 不停 地 清理 现场 断裂 的 石板 用 水泵 往 上 抽水
+12,null,null,6 日 15 时 50 分许
+13,null,null,救援 人员 终于 将 两人 打捞 上来
+14,null,null,但 这 对 夫妻 已 没有 了 呼吸
+15,null,null,为了 节约 用地 房子 盖 在 水井 上 遇难 的 夫妻
+16,null,null,就是 煤厂 的 主人
+1846 15
+ (6,5)
+1,null,null,一年 前
+2,null,null,两人 在 义乌 相识 相恋
+3,null,null,现在 一起 租住 在 稠江 街道
+4,null,null,3 月 8 日
+5,null,null,周围 很多 女性朋友 都 收到 了 节日 礼物
+6,happiness,羡慕,这 让 小童 很 是 羡慕
+7,null,null,小马 也 不是 不 浪漫
+8,null,null,为了 给 女友 庆祝 节日
+9,null,null,他选 了 一家 挺 气派 的 餐馆 请 小童 吃 晚餐
+10,null,null,享受 二人 世界
+11,null,null,两人 找 了 一个 靠窗 的 位置 坐下
+12,null,null,等待 服务员 上菜 时
+13,null,null,小童 不经意 地 说道 你 看 街上
+14,null,null,人家 都 拿 着 花 礼物 送给 女朋友
+15,null,null,你 怎么 就 没 准备 点 礼物 给 我 呢
+539 20
+ (12,12)
+1,null,null,孩子
+2,null,null,别 让 自己 太累
+3,null,null,只要 叔叔 还 能 赚钱
+4,null,null,就 一定 帮 你 完成学业
+5,null,null,登上 勤丰 318 号 货轮
+6,null,null,4 层 一个 狭窄 的 房间 里 有 一台 小 冰箱
+7,null,null,里面 药挤 得 满满的
+8,null,null,你 看 这药 不起眼
+9,null,null,1 盒 将近 300 元 钱
+10,null,null,我 1 个 月 得 吃 10 盒
+11,null,null,龚桂方 说
+12,fear,担心,由于 担心 被 船主 开除
+13,null,null,对 病情
+14,null,null,他 尽量 保密
+15,null,null,在 船上
+16,null,null,好歹 1 个 月 还 能 赚 6000 元 钱
+17,null,null,除了 自己 吃药
+18,null,null,还 能 支援 小 郭 一部分
+19,null,null,工作 没 了
+20,null,null,我 拿 啥 帮 她 啊
+685 6
+ (5,5), (6,6)
+1,null,null,今天下午 3 时
+2,null,null,农民工 白 师傅 急匆匆 赶到 太原市 客运 办
+3,null,null,紧紧 拉 住 的哥 莲 志强 的 手 不肯 松开
+4,null,null,6 个 小时 里
+5,sadness,懊恼不已,白 师傅 的 心情 先是 因 丢失 两万多元 懊恼不已
+6,happiness,欣喜若狂,而后 为 失而复得 欣喜若狂
+459 12
+ (7,8)
+1,null,null,宜昌 窑湾 小学 的 张 宽林 老师 的 想法 也 跟 杨婷 一样
+2,null,null,希望 学生家长 能 尽可能 留在 老家 务工
+3,null,null,很多 留守 孩子 由于 父母 不 在
+4,null,null,作业 不能 按时 交
+5,null,null,开 家长会 也 没人来
+6,null,null,在 教育 过程 中 由于 缺乏 家长 的 帮助 而 事倍功半
+7,happiness,高兴,让 杨婷 高兴 的 是
+8,null,null,爸爸 说过 完年 他们 打算 在 家门口 打工 了
+9,null,null,乡里 办 了 纺织厂
+10,null,null,就近 务工 虽然 挣得 比 在 北京 少 点
+11,null,null,但 生活 成本低
+12,null,null,还 能 顾家
+2025 18
+ (14,11)
+1,null,null,记者 注意 到
+2,null,null,其中 最大 的 一颗 外形 较 圆
+3,null,null,如 黄豆粒 般大
+4,null,null,有着 白色 的 光泽
+5,null,null,而 剩余 两颗 只有 米粒 大小
+6,null,null,表面 凹凸不平
+7,null,null,隐约 能 看到 里面 的 沙砾
+8,null,null,似乎 是 没 长成 的 珍珠
+9,null,null,真没想到
+10,null,null,我 买 这些 海蛎子 只花 了 5 元 钱
+11,null,null,却 得到 了 5 颗 珍珠
+12,null,null,这种 心情 就 像 买 彩票 中 了 奖 一样
+13,null,null,提及 此事
+14,happiness,兴奋,张 先生 很 是 兴奋
+15,null,null,那么
+16,null,null,张 先生 在 海蛎子 里 吃 出 的 究竟 是不是 珍珠
+17,null,null,昨日 下午
+18,null,null,记者 咨询 了 海洋生物 方面 的 专家 大连 水产 学院 生命科学 与 技术 学院 的 周玮 教授
+1441 12
+ (2,2)
+1,null,null,连日来
+2,anger,气愤,不少 网友 都 通过 微 长沙 表达 了 对 袁 某 行为 的 气愤
+3,null,null,同时
+4,null,null,也 呼吁 社会 给与 她们 更 多 隐私 上 的 保护
+5,null,null,避免 给 她们 过多 压力
+6,null,null,造成 二次 伤害
+7,null,null,专家 也 表示
+8,null,null,社会 给予 善意 的 关注
+9,null,null,也 给 她们 留出 复原 的 心理 空间
+10,null,null,当事人 在 调整 情绪 状态 后 可 做 一些 反思
+11,null,null,更 多 了解 自己 的 情感 需求 的 同时
+12,null,null,通过 正确 的 方式 去 获得 满足
+747 18
+ (17,17)
+1,null,null,由于 天气 寒冷
+2,null,null,男子 一手 插 在 兜里
+3,null,null,另一只 手 高举 牌子
+4,null,null,不停 地向 身旁 的 路 人 和 车主 挥动 示意
+5,null,null,小心 城铁 上边 掉 雪 牌子 上 这样 写道
+6,null,null,记者 这才 注意 到
+7,null,null,路口 的 上方 就是 地铁 5 号线
+8,null,null,地铁 顶棚 不时 地 滑落 大块 的 积雪
+9,null,null,砸 到 地上 或 途经 的 车辆 上
+10,null,null,由于 长时间 站 在 寒风 中
+11,null,null,男子 的 脸颊 和 双手 已经 冻得 通红
+12,null,null,但 仍 不 忘 挥动 牌子 向 每 一位 经过 的 路 人 示意
+13,null,null,经过 询问
+14,null,null,记者 得知
+15,null,null,原来 男子 的 家 就 住 在 附近
+16,null,null,看到 积雪 滑落
+17,fear,担心,担心 误伤 路 人
+18,null,null,因此 特意 过来 当 志愿者
+1183 20
+ (14,13)
+1,null,null,女儿 小学 一年级 在 高雄路 小学 上学
+2,null,null,为了 方便 辅导 功课
+3,null,null,他 在 高雄路 开 了 家 餐馆
+4,null,null,女儿 小学 二年级 时
+5,null,null,在 武汉市 青少年宫 小学 上学
+6,null,null,他 又 将 餐馆 开到 了 小学 附近
+7,null,null,五年级 时
+8,null,null,女儿 在 一场 足球比赛 中 被 东西 湖 吴家山 第三 中学 女子 足球队 教练 相 中
+9,null,null,跳级 进入 该校 上 初中
+10,null,null,之后 又 作为 体育 特长生 进入 吴家山 中学
+11,null,null,与 之 对应 的
+12,null,null,苏以 彬 又 将 餐馆 开 到 中学 附近
+13,null,null,父亲 的 严加 看管
+14,anger,恼火,让 女儿 很 恼火
+15,null,null,她 开始 出现 厌学 调皮捣蛋 的 状况
+16,null,null,为了 能 帮 孩子 补习
+17,null,null,从 初中 开始
+18,null,null,苏以 彬 就 找 来 女儿 的 同步 教材
+19,null,null,白天 自己 钻研
+20,null,null,晚上 辅导 她 学习
+1739 10
+ (4,1)
+1,null,null,因为 常 被 丈夫 施暴
+2,null,null,在 一次 被 丈夫 逼 着 喝尿后
+3,null,null,方志 锋 收拾 好 包裹
+4,sadness,寒心,离开 这个 让 她 寒心 的 家
+5,null,null,到 佛山 后
+6,null,null,她 和 大 她 二十多岁 的 老人 同居 了
+7,null,null,日子 本 很 平淡
+8,null,null,但 因为 思家 心切
+9,null,null,老人 又 不愿放 她 离开
+10,null,null,方志 锋 自导自演 了 一出 离奇 的 亿元 绑架案
+544 15
+ (14,13)
+1,null,null,硬着头皮
+2,null,null,焦 女士 把 实情 和盘托出 宝贝
+3,null,null,现在 如果 需要 你 的 血 去 救 爸爸
+4,null,null,你 愿意 吗
+5,null,null,小峰 丝毫 没 犹豫 拿 去 啊
+6,null,null,抽 吧
+7,null,null,抽 多少 都行
+8,null,null,这 一句 话
+9,null,null,妈妈 姑姑 都 哭 了
+10,null,null,儿子 只有 8 岁
+11,null,null,还 在 长 身体
+12,null,null,他 根本 不 懂 什么 是 抽取 造血 干细胞
+13,null,null,让 孩子 承受 那么 大 的 痛苦
+14,sadness,心疼,我 真的 很 心疼 很 心疼
+15,null,null,妈妈 说
+1021 20
+ (12,12)
+1,null,null,2013 年 7 月 4 日 中午 2 点
+2,null,null,30 岁 出头 的 李某 来到 岳麓区 冷柜 厂 宿舍 大门口 一家 快餐店 吃 中饭
+3,null,null,吃 到 一半 发现 菜里 竟然 有 头发
+4,null,null,李某 暴跳如雷
+5,null,null,餐馆老板 跑过来 不停 赔笑 道歉
+6,null,null,还 答应 免收 钱
+7,null,null,李某 却 始终 不 满意
+8,null,null,还 狮子 大 开口
+9,null,null,要求 店家 付 2 万元 作为 补偿
+10,null,null,不 给 我 就 喊 人来 砸 店
+11,null,null,餐馆老板 是 外地人
+12,fear,害怕,面对 李某 的 无理取闹 十分 害怕
+13,null,null,经过 一番 讨价还价
+14,null,null,被迫 给 了 李某 4500 元
+15,null,null,岂料
+16,null,null,10 天后
+17,null,null,将 钱 挥霍 完 的 李某 再次 来到 该店
+18,null,null,要求 店家 再 支付 赔偿
+19,null,null,店家 偷偷地 报 了 警
+20,null,null,李某 被 抓获
+2047 9
+ (5,7)
+1,null,null,据悉
+2,null,null,苏什玛 的 哥哥 塞 兰德 达 · 韦玛 也 是 一名 智力 超群 的 优等生
+3,null,null,他 11 岁 时 通过 大学 入学考试 和 美国 高中生 进入 美国大学 必须 参加 的 托福考试
+4,null,null,并且 获得 美国大学 入学 许可
+5,sadness,惋惜,令人 惋惜 的 是
+6,null,null,由于 家境 过于 贫困
+7,null,null,他 最终 无法 实现 出国深造 的 梦想
+8,null,null,此前
+9,null,null,印度 全国 最 年轻 的 大学 入学考试 录取 生是 来自 印度 最 穷困 落后 的 比哈尔 省 的 男生 塔哈 加特 · 阿瓦 塔 · 图尔 西
+865 20
+ (18,17)
+1,null,null,2012 年 6 月 7 日 17 时
+2,null,null,辽阳 仙鹤 湖 西岸
+3,null,null,仲 先生 正 开车 路过
+4,null,null,听到 有人 喊救命 啊
+5,null,null,我爸 掉 水里 了
+6,null,null,他 急忙 停车 跳进 湖中
+7,null,null,湖有 四五米 深
+8,null,null,他边 跑 边 喊 水性 不好 的 别下
+9,null,null,在 旁人 帮助 下
+10,null,null,将 落水者 救上 了 岸
+11,null,null,遗憾 的 是
+12,null,null,因为 着急 救人
+13,null,null,车窗 忘摇上 了
+14,null,null,车里 的 包被 人 拿走 了
+15,null,null,包里 有 给 女儿 婚礼 购物 的 现金
+16,null,null,记者   张帆 整理 报道   为 救人 即使 掉 十个 包 也 是 值得
+17,null,null,但是 被 人 偷走 了
+18,sadness,委屈,却 让 我 深感 委屈 和 窝囊
+19,null,null,但是 我 以后 还是 会 救人
+20,null,null,救人者 老仲说
+901 14
+ (10,9)
+1,null,null,3 月 18 日 中午
+2,null,null,南郑县 圣水 镇五爱村 村民 王 德才 生于 1973 年 3 月 12 日 其妻 吴志侠 生于 1967 年 2 月 11 日 分别 死于 租 住房 及 自家 旧房 之中
+3,null,null,民警 勘查 中 又 发现 王 德才 之 女王 丹 生于 1995 年 11 月 25 日 也 被 杀死 在 旧房 内
+4,null,null,昨日
+5,null,null,华商报 记者 从 南郑县 公安局 获悉
+6,null,null,此案 系 一起 家庭婚姻 矛盾 引发 的 杀 亲自 杀 案件
+7,null,null,犯罪 嫌疑人 吴志侠 已 自杀 今年春节 后 与其 丈夫 王 德才 因 婚姻 问题 发生冲突
+8,null,null,王 德才 要 离婚
+9,null,null,吴志侠 感到 生活 绝望
+10,disgust,怨恨,遂心 生 怨恨
+11,null,null,3 月 18 日 凌晨
+12,null,null,趁王 德才 熟睡 之际 将 其 杀死
+13,null,null,后 又 将 王 德才 与 前妻 之 女王 丹 杀害
+14,null,null,然后 自杀
+933 23
+ (18,16), (18,17)
+1,null,null,可是
+2,null,null,当 调解书 生效 后 不到 一个月
+3,null,null,即 2010 年 5 月
+4,null,null,唐军 的 六旬 外公 李万 就 搬 到 房子 里 去 住 了
+5,null,null,而且 坚决 拒绝 搬出
+6,null,null,原来
+7,null,null,李万 表示
+8,null,null,房子 所属 的 土地 产权 是 他 的
+9,null,null,他 说
+10,null,null,当初 女儿 和 女婿 结婚 后
+11,null,null,夫妻俩 要 修房子
+12,null,null,因为 是 一家人
+13,null,null,他 就让 夫妻俩 用 自己 的 地
+14,null,null,但 现在 女儿 和 女婿 离婚 了
+15,null,null,两人 也 没 和 自己 商量
+16,null,null,房子 就 这样 归 了 外孙
+17,null,null,自己 连 土地 也 没有 了
+18,anger,气恼,这 让 他 十分 气恼
+19,null,null,尽管 自己 已经 有 房子 住
+20,null,null,但 他 仍然 坚持 要 搬进 去
+21,null,null,唐明 知道 李万 搬 去 居住 后 十分 无奈
+22,null,null,多次 前去 索要 房屋
+23,null,null,但 都 遭到 了 李万 的 拒绝
+1634 29
+ (16,15)
+1,null,null,2011 年 起
+2,null,null,他 发现 妻子 与 范德财 之间 有 不 正当 男女关系
+3,null,null,并 请 严发荣 帮忙 查 二人 开房 记录
+4,null,null,随后
+5,null,null,严发荣 就 帮忙 找范德 财谈
+6,null,null,范德财 同意 退出 股份 离开 成都
+7,null,null,但 不久 范德财 又 回到 成都
+8,null,null,同时 严发荣查 到 二人 有 开房 记录
+9,null,null,自己 便 提出 找人 打范德财 一顿
+10,null,null,但 严发荣 说 要 弄 就 弄死
+11,null,null,需要 花 180 万
+12,null,null,他 没有 同意
+13,null,null,2012 年 10 月 8 日
+14,null,null,他 母亲 因为 自己 和 妻子 闹 离婚 的 事 而 自杀
+15,null,null,他 认为 这是 妻子 和 范德财 两人 奸情 造成 的
+16,anger,愤怒,很 愤怒
+17,null,null,便 找到 严发荣 叫 他 尽快 安排 杀掉 范德财
+18,null,null,母亲 丧事 办完 后 不久
+19,null,null,自己 就 去 欧洲 旅游
+20,null,null,期间 和 严发荣 通过 电话
+21,null,null,询问 进展 情况
+22,null,null,他 叫 我 不要 操心
+23,null,null,还 让 自己 给 他 带 只 手表
+24,null,null,大约 是 12 月 24 号 或者 25 号 早上
+25,null,null,严发荣 说 事情 已经 办好 了
+26,null,null,急需 一笔 钱
+27,null,null,当天 晚上 自己 准备 了 19 万 现金 交给 了 严发荣
+28,null,null,严发荣 没有 给 自己 讲过 是 如何 杀人
+29,null,null,只是 叫 说 知道 的 越少 越 好
+76 6
+ (6,5)
+1,null,null,李世铭 紧紧 地 抱 着 儿子
+2,null,null,一刻 也 不愿 放开
+3,null,null,45 天
+4,null,null,对于 失去 儿子 的 他们 是 多么 的 漫长
+5,null,null,宝贝 回家 了
+6,happiness,幸福,这个 春节 将 是 多么 幸福
+1252 14
+ (7,7)
+1,null,null,10 月末
+2,null,null,小华 认识 了 26 岁 的 白领 小荣
+3,null,null,小荣 很 机灵
+4,null,null,在 一次 电影 散场 后
+5,null,null,小荣 让 小华 开车 送 她 回家
+6,null,null,以 检验 他 是否 真的 有车
+7,fear,害怕,小华 害怕 谎言 被 拆穿
+8,null,null,就 带 着 小荣 在 停车场 内转 了 一圈
+9,null,null,然后 谎称 自己 的 钱包 和 钥匙 丢 了
+10,null,null,还拉着 小荣 陪 他 在 附近 找 了 半天
+11,null,null,最后
+12,null,null,他 还 煞有其事 地 指着 一辆 轿车 叮嘱 保安 这辆 车是 我 的
+13,null,null,我 去 找车 钥匙
+14,null,null,你 帮 我 看好
+1425 19
+ (14,14)
+1,null,null,虽然
+2,null,null,杜某 于 2014 年 6 月 19 日
+3,null,null,前往 永嘉县 公安局 自首
+4,null,null,但 公诉人 不 认为
+5,null,null,杜某 有 自首 情节
+6,null,null,因为 对于 陈某 的 犯罪事实
+7,null,null,杜某 前后 口供 不 一致
+8,null,null,先是 说 受 陈某 指使
+9,null,null,后 又 翻供 说 不关 陈某 的 事
+10,null,null,记者 从 永嘉县 公安局 了解 到
+11,null,null,陈某 因涉嫌 掩饰 隐瞒 犯罪事实 被 警方 刑拘
+12,null,null,目前 被 取保候审
+13,null,null,杜某 在 法庭 上 说
+14,sadness,后悔,对 所 做 的 事情 非常 后悔
+15,null,null,希望 法庭 看 在 自己 为 人母 的 份 上
+16,null,null,家中 现在 7 周岁 的 女儿 还 需要 照顾
+17,null,null,希望 法庭 能 减轻 处罚
+18,null,null,法院 未 当庭 宣判
+19,null,null,将 择日 进行 宣判
+1504 18
+ (9,8)
+1,null,null,祝帅帅 是 河南省 周口市 沈丘县 白 集镇 人
+2,null,null,2013 年 4 月
+3,null,null,当 他 还 在 河南省 水利水电 学校 就读 时
+4,null,null,就 被 确诊 为 胃癌 晚期
+5,null,null,他 之前 就 经常 胃疼
+6,null,null,我 没 上心
+7,null,null,他 总是 自己 去 买点 药 吃 吃
+8,null,null,得知 孩子 得 了 胃癌
+9,sadness,追悔莫及,李素华 追悔莫及
+10,null,null,祝帅帅 的 辅导员 张晓娟 也 记得
+11,null,null,祝帅帅 以前 也 跟 她 提过 胃 疼 的 事 他 说 胃 疼
+12,null,null,但是 他 从来不 请假
+13,null,null,只是 说
+14,null,null,老师
+15,null,null,我 胃 不 舒服
+16,null,null,我 出去 买点 药
+17,null,null,很快 就 回来
+18,null,null,而且 从来不 让 我 给 他 家里 说
+688 8
+ (6,6)
+1,null,null,过年 了
+2,null,null,大家 都 在 晒 五花八门 的 年终奖
+3,null,null,可 你 听说 过 业主 自掏腰包
+4,null,null,给 物管 保安 清洁工 发 年终奖 的 新鲜事 吗
+5,null,null,昨日 是 农历 小年
+6,happiness,惊喜,在 河西 长塘山 小区 做 清洁工 的 孙国清 就 惊喜 地 领到 了 550 元 年终奖 这个 小区 真有 人情味
+7,null,null,工作 这么 多年
+8,null,null,还是 头 一次 有 私人 给我发 年终奖
+1624 27
+ (21,20)
+1,null,null,因 和 儿子 吵架 产生 厌世 情绪
+2,null,null,八旬 老父 张 某用 打火机 引燃 客厅 沙发 欲 自杀
+3,null,null,酿成 室内 大火
+4,null,null,产生 大量 浓烟
+5,null,null,致 其子 吸入 过量 一氧化碳 中毒 身亡
+6,null,null,记者 上午 从 北京 昌平 检方 获悉
+7,null,null,张某 涉嫌 放火 罪 被 提起公诉
+8,null,null,张 某年 逾 八旬
+9,null,null,2010 年 搬 至 55 岁 的 长子 家中 居住
+10,null,null,因 半身不遂 行动不便
+11,null,null,所以 生活 起居 皆 由 大儿子 照料
+12,null,null,后 两人 经常 因 拆迁 的 财产 问题 发生 争吵
+13,null,null,关系紧张
+14,null,null,2014 年 1 月
+15,null,null,两人 又 发生争执
+16,null,null,令张 某 产生 自杀 念头
+17,null,null,于是 趁 儿子 饭后 午休 时
+18,null,null,取 来 打火机
+19,null,null,将 沙发 点燃
+20,null,null,之后 火势 越来越 大
+21,fear,恐惧,张某 心生 恐惧 便 放弃 自杀 念头
+22,null,null,高声 呼救
+23,null,null,此时
+24,null,null,其子 醒来 却 因 吸入 过量 一氧化碳 倒地不起
+25,null,null,经 抢救无效 死亡
+26,null,null,邻居 看到 楼 内 大火 纷纷 报警
+27,null,null,并 将 呼救 的 张 某 救出
+1641 26
+ (24,24)
+1,null,null,值班 民警 接警 后 迅速 带领 3 名特 巡警 队员 赶赴现场
+2,null,null,在 夜市 摊 附近 一 巷子 内
+3,null,null,发现 该 男子 正 手持 菜刀 进入 一 住户
+4,null,null,随后 又 转入 另 一 住户
+5,null,null,后经 核实
+6,null,null,为 死者 临时 租 住房
+7,null,null,处警 民警 赶到 后 责令 其 放下 菜刀
+8,null,null,该 男子 不 听 劝阻
+9,null,null,挥刀 砍 向 处警 人员
+10,null,null,民警 鸣枪示警 后
+11,null,null,该 男子 继续 追 砍 民警 至 屋外
+12,null,null,将 一 民警 砍伤
+13,null,null,该 民警 再次 鸣枪示警 无效 后 开枪 将 其 击中
+14,null,null,随后 死亡
+15,null,null,经 初步 调查
+16,null,null,死者 乐某
+17,null,null,男
+18,null,null,45 岁
+19,null,null,三穗县 八弓 镇江 桥村 一组 人
+20,null,null,有 酒后 家 暴行 为
+21,null,null,曾 因 贩毒 被 判刑 一年
+22,null,null,事发 当日 下午 与其 妻子 叶某 到 亲戚家 喝酒
+23,null,null,回家 后 与 其妻 发生争执
+24,fear,害怕,其妻 害怕 乐某 酒后 施暴 外出 躲避
+25,null,null,乐 某遂持 菜刀 四处寻找 妻子
+26,null,null,在 夜市 摊因 挥刀 威胁 过往行人 被 报警
+646 12
+ (4,3)
+1,null,null,下午
+2,null,null,秦旭磊 来到 比赛 场馆 所在 的 新乡 医学院
+3,null,null,第一次 来到 大学校园 里
+4,happiness,惊喜,秦旭磊 满眼 都 是 惊喜
+5,null,null,世界 真 大
+6,null,null,学校 比 我们 村子 都 大
+7,null,null,旭磊 对 妈妈 说
+8,null,null,以后 我 也 要 上 大学
+9,null,null,新乡 医学院 体育部 办公室 主任 欧阳 红 林带 着 秦旭磊 把 高标准 的 体育馆 参观 一遍
+10,null,null,第一次 来到 网球场
+11,null,null,秦旭磊 说 传说 中 的 李娜 在 这么 大 的 地方 打球
+12,null,null,那可够 累 的 啊
+478 14
+ (7,6)
+1,null,null,只有 看见 有人 拿 着 食物 或 饮料 路过
+2,null,null,杜建民 就 会 紧紧 地 拽 着 绳子
+3,null,null,防止 豪豪 做出 出格 动作
+4,null,null,其实
+5,null,null,豪豪 养成 这些 坏习惯 除了 因为 年龄 小 好动 外
+6,null,null,最 主要 是 错过 了 3 至 5 岁 自闭症 的 最佳 治疗 时间
+7,sadness,愧疚,这 让 杜建民 感到 十分 的 愧疚
+8,null,null,上午 11 时
+9,null,null,等待 了 2 个 多 小时 后
+10,null,null,一位 老人 要 坐车去 和平路
+11,null,null,对方 只 愿意 出 5 元 钱
+12,null,null,这个 价格 远远 低于正常 价格
+13,null,null,杜建民 咬牙 还是 愿意 送
+14,null,null,这 也 是 他 当日 的 第一笔 生意
+1404 15
+ (8,7), (11,9)
+1,null,null,从 2005 年 开始
+2,null,null,成士忠 开始 准备 创作
+3,null,null,每天 有空 去 证券 交易所 时
+4,null,null,都 会 带上 本子 和 笔
+5,null,null,观察 和 记录 小股民 的 神态
+6,null,null,他 发现
+7,null,null,当 股票 上涨 时
+8,happiness,兴奋,股民 往往 兴奋 得 大叫
+9,null,null,暴跌 时
+10,null,null,一些 股民 则 捶胸顿足
+11,sadness,失声痛哭,失声痛哭
+12,null,null,成士忠 把 这些 全都 记 了 下来
+13,null,null,近三年 时间 里
+14,null,null,成士忠 记录 下 10 余万 字
+15,null,null,几个 笔记本 记得 满满的
+1854 22
+ (14,14)
+1,null,null,而 他 的 成绩
+2,null,null,大家 有目共睹
+3,null,null,2006 年 至今
+4,null,null,他 连续 8 年 年度 考核 被 评为 优秀
+5,null,null,2009 年 被 评为 医院 十佳 医生
+6,null,null,2011 年 12 月 受聘 副 主任医师 职务
+7,null,null,史 医生 一路 走 好
+8,null,null,所有 的 白衣战士
+9,null,null,请 珍爱 健康
+10,null,null,珍爱 自己
+11,null,null,苏大 附属 第一 医院 心 内科医生 钱晓东 在 微博上 悼念 史明
+12,null,null,在 微博 下面
+13,null,null,点起 了 一根 根 蜡烛
+14,sadness,惋惜,大家 都 为 这位 好 医生 的 离去 感到 惋惜
+15,null,null,临床 工作 太 繁重 了
+16,null,null,每次 上 门急诊 班 都 有些 焦虑
+17,null,null,每次 下 门急诊 后
+18,null,null,脑袋 都 是 发烫 的
+19,null,null,就 像 过热 的 机器
+20,null,null,真 要 自己 爱护 自己 的 身体 了
+21,null,null,为 师兄 的 离去 感到 难过
+22,null,null,苏州大学 附属 儿童医院 一名 医生 感慨
+243 13
+ (7,6), (13,12)
+1,null,null,2013 年 8 月 20 日
+2,null,null,二人 约 好
+3,null,null,打算 次日 回 湖南 办理 离婚 手续
+4,null,null,小美说
+5,null,null,当日 下午 4 时许
+6,null,null,她 听到 大雄 在 电话 中 和 朋友 说 想 离婚 后 再娶
+7,anger,气愤,感觉 十分 气愤
+8,null,null,便 从 菜市场 买 了 一瓶 农药 回家
+9,null,null,准备 自杀
+10,null,null,晚上 10 时许
+11,null,null,一名 老乡 来到 店里 问起 小 美的 情况
+12,null,null,大 雄 抱怨 小美 不好
+13,sadness,难受,她 听到 后 感到 既 难受 又 生气
+645 11
+ (3,3)
+1,null,null,按 上级 安排
+2,null,null,储金会 由 基层组织 负责 善后
+3,fear,焦虑,面对 村民 们 对 血汗钱 要 打水漂 的 焦虑
+4,null,null,南凤枚 深陷 良心 挣扎
+5,null,null,大家 把 种田 养猪 养鸡 一分 一角 攒下 的 血汗钱 救命钱 养老 钱存 进来
+6,null,null,如果 变成 烂账
+7,null,null,我 这个 经手人 对不起 乡亲 啊
+8,null,null,南凤枚 说
+9,null,null,我 当 村干部 数十年
+10,null,null,到 老 不 处理 好 这事
+11,null,null,死 了 都 不能 安心
+400 10
+ (5,4), (9,7), (9,8)
+1,null,null,在 25 分钟 的 电话 和 视频 中
+2,null,null,女儿 和 母亲 最 关心 的 是
+3,null,null,孔庆 和 什么 时候 回去 看 他们
+4,null,null,也 就是 这些 普通 的话
+5,happiness,感动,感动 了 现场 所有 的 人
+6,null,null,如今 我 也 做 外公 了
+7,null,null,得知 女儿 已经 嫁人
+8,null,null,并 生下 小孩 后
+9,happiness,激动,孔庆 和 很 激动
+10,null,null,称 这些 都 是 龙川 中心 派出所 民警 的 功劳
+368 11
+ (8,7)
+1,null,null,虽然 设想 差不多 的 只有 这 一对
+2,null,null,但 整场 相亲会 下来
+3,null,null,另外 两对 也 给 彼此 留下 了 深刻 的 印象
+4,null,null,21 时
+5,null,null,相亲会 结束
+6,null,null,三对 男女 牵手 成功
+7,null,null,看着 牵手 成功 的 三 对 男女
+8,happiness,开心,朱先生 很 开心
+9,null,null,希望 他们 能 走 得 更 远
+10,null,null,以后 我 还 会 多 办 一些 这样 的 相亲 活动
+11,null,null,帮助 更 多 单身 的 人 早日 找到 另一半
+262 20
+ (20,20)
+1,null,null,今天 大姐 二姐 在 父母 家 打扫卫生
+2,null,null,竟 发现 了 一大 叠 父亲 的 画
+3,null,null,小心 地 把 画 一张 张 展开
+4,null,null,我 震撼 了
+5,null,null,有 钢笔画 铅笔画 和 大量 水彩画
+6,null,null,从 画作 的 时间 看
+7,null,null,基本 是 上 世纪 50 年代 末 60 年代 初所画
+8,null,null,当 我 把 画 铺开 后
+9,null,null,我 哭 了
+10,null,null,当时 还 没有 我
+11,null,null,在 这 一段 生活 最 艰苦 的 时期
+12,null,null,父亲 竟有 如此 之 追求
+13,null,null,短短 两三年 画作 数量 如此 之多
+14,null,null,我 实在 无法控制
+15,null,null,泪水 止不住 地 流淌
+16,null,null,随后
+17,null,null,李东凯 在 朋友圈 发出 借 朋友圈 宝地 替 父亲 办 画展
+18,null,null,然后
+19,null,null,陆续 发出 15 组 父亲 的 画作
+20,surprise,惊讶,朋友 们 都 惊讶 画作 水平 之 精湛
+1524 12
+ (11,9)
+1,null,null,无锡 警方 19 日 通报
+2,null,null,目前 殴打 工作人员 的 嫌疑人 已 找到
+3,null,null,打人者 被 处 行政拘留 并 罚款
+4,null,null,据悉
+5,null,null,9 月 16 日 中午
+6,null,null,无锡 地铁 1 号线 南禅寺 站台
+7,null,null,两 乘客 在 地铁站 里 给 孩子 把 尿
+8,null,null,正在 巡视 的 站务员 发现 情况 后 上前 劝止
+9,null,null,不料 男 乘客 破口大骂 称 保洁员 就是 干 这个 的 同行 的 女 乘客 更 上前 打 了 站务员 两 耳光
+10,null,null,相关 监控 视频 曝光 后 立刻 引起 关注
+11,anger,愤怒,不少 人 愤怒 地 留言 要求 尽快 找到 打人者
+12,null,null,并 严肃 惩处
+815 11
+ (3,2)
+1,null,null,周围 工友 从 睡梦中 惊醒
+2,null,null,以为 地震
+3,fear,惊吓,惊吓 得 赶忙 跑 出来 查看
+4,null,null,这时
+5,null,null,从 附近 10 米外 倒塌 的 民房 里 传来 呼救声
+6,null,null,众 民工 赶忙 飞奔 过去
+7,null,null,民工 们 被 眼前 的 一幕 惊呆 了 倒塌 的 砖墙 刚好 砸 在 工友 王某 的 床上
+8,null,null,王某 夫妻俩 正 吃力 地 双手 支撑 着 床板
+9,null,null,背上 压着 一平方米 左右 的 整块 砖墙
+10,null,null,他们 3 个 孩子 则 在 大人 的 叫喊 下
+11,null,null,挨个 从 夫妻俩 身下 的 缝隙 中 蹒跚 着 爬 了 出来
+227 23
+ (21,23)
+1,null,null,从 2006 年 到 现在
+2,null,null,8 年 的 时间
+3,null,null,余中秀 老人 去 了 北京 8 次
+4,null,null,福建 陕西 广东
+5,null,null,只 剩下 新疆 和 西藏 没 去过
+6,null,null,陈录 雪 说 妈妈 的 精神 身体 状态 越来越 好
+7,null,null,以前 妈妈 晕车
+8,null,null,一 坐车 就 恶心
+9,null,null,现在
+10,null,null,高速公路 也好
+11,null,null,乡间 小路 也好
+12,null,null,甚至 是 山路
+13,null,null,她 都 很 难 晕车 了
+14,null,null,以前 妈妈 几乎 每个 星期 都 有 一次 打针 输液
+15,null,null,而 现在
+16,null,null,车里 备 了 药箱
+17,null,null,她 却 难得 吃 上 一颗
+18,null,null,最近 在 医院 的 体检 中
+19,null,null,她 身体 的 各项 指标 都 正常
+20,null,null,陈录 雪 说
+21,surprise,惊讶,最令 我 惊讶 的 是
+22,null,null,妈妈 以前 一头 白发 像 个 头套
+23,null,null,现在 慢慢 竟有 了 几丝 黑发
+80 8
+ (4,4)
+1,null,null,不仅如此
+2,null,null,志愿者 荣荣 还 亲自 去 运城 河津 等 县市 对接 当地 志愿者 组织
+3,null,null,动员 和 呼吁 当地 志愿者 共同 发起 寻找 小鑫鑫 的 行动
+4,happiness,感动,志愿者 的 一言一行 温暖 和 感动 着 李世铭 一家
+5,null,null,丢失 了 孩子
+6,null,null,他们 是 不幸 的
+7,null,null,但 众多 志愿者 的 关心 和 帮助
+8,null,null,他们 又 觉得 是 幸运 的
+1933 12
+ (4,6)
+1,null,null,今年 被 称为 史上 小升初 最难 年
+2,null,null,而 中山市 有 一名 小学生 决定 把 初中 的 选择权 把握 在 自己 手里
+3,null,null,他 采用 网上 投 自荐信 的 方式 主动 在 广州市 跨市 择校
+4,happiness,惊喜,让 他 惊喜 的 是
+5,null,null,由于 在 面试 和 综合 素质 测试 中 有着 出色 的 表现
+6,null,null,他 如愿 地被 黄埔区 的 中大 附属 外国语 实验 中学 提前 破格录取
+7,null,null,我 叫 李泓杰
+8,null,null,出 生于 2002 年 4 月 22 日
+9,null,null,今年 十二岁
+10,null,null,是 一名 即将 迈出 小学校 门 跨入 中学 旅途 的 男孩
+11,null,null,今天 我 怀着 一颗 赤诚 的 心
+12,null,null,向 您 推荐 我 自己
+1285 11
+ (9,8)
+1,null,null,秦 女士 说
+2,null,null,回到 家后
+3,null,null,她 一直 发烧
+4,null,null,但 心里 却 惦记着 那位 见义勇为 的 小伙子
+5,null,null,被 救 上岸 后 我 也 蒙 了
+6,null,null,只是 简单 地 说 了 句 谢谢
+7,null,null,留 了 电话 就 分手 了
+8,null,null,一个 陌生人 能 毫不犹豫 地 出手 相救
+9,happiness,感动,我 很 感动
+10,null,null,等 身体 彻底 康复 后
+11,null,null,一定 要 去 宝鸡 当面 感谢 他
+1876 17
+ (10,9)
+1,null,null,当时 那个 孕妇 躺 地 马路上
+2,null,null,交警 在 打电话 求助
+3,null,null,旁边 的 人 都 手足无措
+4,null,null,我 看 那位 交警 是 个 男 的
+5,null,null,估计 照顾 孕妇 也 没 经验
+6,null,null,我 就 上前 扶 了
+7,null,null,记者 面对 的 是 名 孕妇
+8,null,null,是 什么 让 你 伸出手
+9,null,null,屈卉 旻 我 当时 看到 孕妇 躺 地 马路上
+10,sadness,心疼,非常 心疼
+11,null,null,因为 我 也 是 位 妈妈
+12,null,null,而且 我 当过兵
+13,null,null,在 部队 时学过 一些 救助 常识
+14,null,null,记者 有没有 考虑 过 风险
+15,null,null,屈卉 旻 当时 真 没想 那么 多
+16,null,null,只是 感觉 这名 孕妇 需要 我 的 帮助
+17,null,null,其实 谁 遇上 都 会 上前 扶 一把 的
+937 18
+ (10,10)
+1,null,null,张艳 和 周斌 结婚 后
+2,null,null,他们 还 在 该村 承包 了 两亩 地 搞 养殖
+3,null,null,这块 地是 张艳以 周斌 的 名义 承包 的
+4,null,null,婚后 两年
+5,null,null,周斌 夫妇 搬 到 养殖区 居住
+6,null,null,现在
+7,null,null,婆婆 又 提出 要 继承 张艳 和 周斌 所 共有 的 养殖区 这块 地
+8,null,null,同时
+9,null,null,张艳 的 两名 继女 也 在 婆婆 的 说教 下 与 她 反目成仇
+10,sadness,委屈,这些 接踵而至 的 遭遇 令 张艳 委屈 至极
+11,null,null,婆婆 认为
+12,null,null,养殖区 这块 地是 张艳 和 周斌 婚后 的 共同财产
+13,null,null,现在 周斌 去世
+14,null,null,根据 继承法 的 规定
+15,null,null,法定继承 遗产 的 第一 顺序 继承人 为 配偶 子女 父母
+16,null,null,子女 包括 婚生子女 非婚生子 女
+17,null,null,因此
+18,null,null,她 有权 继承 儿子 的 财产 份额
+704 32
+ (12,11)
+1,null,null,早上 天气 比较 冷
+2,null,null,风 又 大
+3,null,null,看到 产妇 等不及 进 医院
+4,null,null,临时 在 路边 生产
+5,null,null,路人 都 让开 了 位置
+6,null,null,有些 好心人 在 旁边 脱 下 外衣 为 产妇 挡风
+7,null,null,还有 人 立即 跑 进 医院 呼叫 医生
+8,null,null,当时 路过 的 市民 熊 女士 说
+9,null,null,在 产房 外
+10,null,null,记者 见到 了 孕妇 的 姐姐 付 女士
+11,null,null,说起 刚刚 发生 的 惊险 一幕
+12,fear,心有余悸,她 还 心有余悸
+13,null,null,早上 7 点多 的 时候
+14,null,null,弟妹 突然 说 腰疼 得 厉害
+15,null,null,肚子 也 不 舒服
+16,null,null,我 就 赶紧 收拾 一下 东西
+17,null,null,带 着 她 打车 往 医院 赶
+18,null,null,付 女士 说
+19,null,null,她们 家住 在 铁路 九村
+20,null,null,弟妹 姓 万
+21,null,null,预产期 就 在 这 几天
+22,null,null,但 她 没想到 会生 得 这么 快
+23,null,null,车到 医院 门口 后
+24,null,null,刚 下车
+25,null,null,弟妹 就 说 肚子疼 得 受不了
+26,null,null,没 办法 走路 了
+27,null,null,她 说 孩子 好像 已经 出来 了
+28,null,null,我 就 赶紧 脱 下 大衣 铺 在 地上
+29,null,null,让 她 躺 下
+30,null,null,我 这时 看到 孩子 的 脚 都 已经 出来 了
+31,null,null,是 个 男孩
+32,null,null,当时 脐带 缠 着 孩子
+1962 13
+ (6,7)
+1,null,null,一段时间 后
+2,null,null,李杰 就 和 尹珊 确立 了 男女朋友 关系
+3,null,null,尹珊 不时 从 QQ 发来 的 图片
+4,null,null,显示 出 的 美丽 的 容貌
+5,null,null,以及 手机 通话 中 温柔 的 话语
+6,happiness,满心欢喜,让 李杰 满心欢喜
+7,null,null,终于 遇到 了 自己 心目 中 的 公主
+8,null,null,但 唯一 令 李杰 不 满意 的 是
+9,null,null,尹珊 始终 不愿 会面
+10,null,null,总是 以 加班 培训 聚餐 等 各种 理由 推脱 李杰 的 邀约
+11,null,null,就 在 两人 相恋 半年 后
+12,null,null,尹珊 多次 以 母亲 生病 买房 还贷 等 理由
+13,null,null,向 李杰 借款 达 3 万余元
+1754 19
+ (10,10)
+1,null,null,原告 称 张海燕 为 家中 独生女
+2,null,null,在 去年 2 月 13 日才 结婚
+3,null,null,父母 早已 退休
+4,null,null,其 意外 亡故 给 父母 带来 巨大 打击
+5,null,null,两位 老人 痛不欲生
+6,null,null,3 被告 明知 张海燕 不胜酒力 醉态 明显
+7,null,null,仍 与其 继续 喝酒
+8,null,null,并 让 其 跳舞 绊倒 致 玻璃 刺中 静脉 身亡
+9,null,null,故应 连带 赔偿 死亡 赔偿金 丧葬费 等 共 927640.5 元
+10,sadness,惋惜,被告 称 服务员 身亡 是 意外 被告方 律师 称 3 名 被告 对 张海燕 的 去世 表示 惋惜 和 哀悼
+11,null,null,但 同时 表示 不 应对 张海燕 的 死 承担责任
+12,null,null,该 律师 辩称
+13,null,null,张海燕 为会 所 服务员
+14,null,null,邀请 客人 也 就是 3 名 被告 唱 鸿雁
+15,null,null,自己 随歌 起舞
+16,null,null,跳舞 时 自己 绊 了 自己 的 脚
+17,null,null,不慎 摔倒 在 桌子 上
+18,null,null,砸碎 了 喝酒 的 酒杯
+19,null,null,才 导致 不幸 发生
+457 16
+ (9,9)
+1,null,null,大 年初 四 中午 临近 1 点时
+2,null,null,于洁 的 诊室 里 仍 围着 10 余名 患者 和 家属
+3,null,null,对 每 一名 患者
+4,null,null,于洁 都 耐心 地 进行 问诊 和 眼部 检查
+5,null,null,为了 减少 其他 患者 的 等候 时间
+6,null,null,她 加快 语速
+7,null,null,但 耐心 依旧
+8,null,null,大过年 的
+9,fear,焦虑,谁 受伤 了 心情 都 肯定 不好 且 焦虑
+10,null,null,耐心 是 必须 的
+11,null,null,一个 上午
+12,null,null,于洁 接诊 了 20 余名 患者
+13,null,null,远远 超出 了 12 人 的 核定 接诊 数
+14,null,null,好多 人 都 是从 外地 赶过来 的
+15,null,null,大多 都 是 爆竹 伤
+16,null,null,哪 忍心 不 给 人 加号 呀
+1320 20
+ (14,13)
+1,null,null,杭州 64 岁 的 一位 阿姨
+2,null,null,年前 感冒
+3,null,null,一直 没有 去 看病
+4,null,null,过年 这 两天
+5,null,null,家里人 发现 她 头昏
+6,null,null,嗜睡
+7,null,null,讲话 口齿不清
+8,null,null,送 去 医院 检查 后
+9,null,null,诊断 为 脑炎
+10,null,null,需要 住院治疗
+11,null,null,一位 70 岁 的 老先生
+12,null,null,平时 不 喝酒
+13,null,null,过年 家人 团聚
+14,happiness,高兴,特别 高兴
+15,null,null,喝 了 2 两 茅台酒
+16,null,null,感觉 有点 头晕
+17,null,null,拍 全家福 时
+18,null,null,突然 晕倒 在 地
+19,null,null,送到 医院
+20,null,null,被 诊断 为 酒精中毒
+1409 23
+ (14,13)
+1,null,null,在 重症 监护室 住 几天 后
+2,null,null,他 被 转到 普通 病房
+3,null,null,此时
+4,null,null,科里 床位 紧张
+5,null,null,走廊 里 都 加满 了 床
+6,null,null,可 医院 还是 给 他 腾出来 一个 单间
+7,null,null,避免 交叉感染
+8,null,null,经过 治疗
+9,null,null,浮肿 消退 了
+10,null,null,但 他 的 身上 出现 一个 大 脓包
+11,null,null,不断 有 黄水 淌 出来
+12,null,null,心内 一 科主任 郑晓群 每天 为 他 擦 这些 黄水
+13,null,null,医护人员 对 大伟 精心 照顾
+14,happiness,感动,家属 非常 感动
+15,null,null,终于
+16,null,null,他 的 浮肿 慢慢 消退 了
+17,null,null,跟 正常人 一样 了
+18,null,null,吃 东西 也 好多 了
+19,null,null,母亲 说
+20,null,null,大伟 以前 不吃 水果
+21,null,null,因为 咽 起来 困难
+22,null,null,现在 特别 爱 吃
+23,null,null,昨日 他 已经 出院 回家 了
+715 15
+ (4,5)
+1,null,null,在 交谈 中
+2,null,null,陈洪娇 得知 这位 环卫 大姐 姓程
+3,null,null,没过多久
+4,happiness,感动,让 陈洪娇 更为 感动 的 是
+5,null,null,这位 程 大姐 将 她 的 店 门外 打扫 得 干干净净
+6,null,null,见状
+7,null,null,陈洪娇 急忙 让 弟 媳妇 把 开业 当天 的 第一个 肉夹馍 送给 程 大姐
+8,null,null,她 接过 肉夹馍 后
+9,null,null,跑过来 塞钱 给 我
+10,null,null,陈洪娇 说
+11,null,null,当时 她 坚决 不肯 收
+12,null,null,当 她 邀请 程 大姐 进店 坐 会儿
+13,null,null,喝杯 热水 时
+14,null,null,程 大姐 却 婉拒 说 我们 总是 在 外面 干活
+15,null,null,进去 不好
+1358 18
+ (3,2)
+1,null,null,茹茹 是 此 事件 中 的 幸存者
+2,null,null,对于 晓意 和 陌生 叔叔 因救 她 而 溺入 坑底
+3,fear,恐惧,这个 孩子 的 内心 充满 了 不安 和 恐惧
+4,null,null,在 打捞 现场
+5,null,null,茹茹 一直 在 家人 的 陪同 下
+6,null,null,双眼 直直地 盯 着 水面
+7,null,null,如果 不是 妈妈 的 怀抱
+8,null,null,浑身 哆嗦 的 茹茹 连 站 的 力气 都 没有
+9,null,null,14 时许
+10,null,null,由于 外面 天气 太冷
+11,null,null,浑身 湿透 的 茹茹 被 母亲 送 回家 后 就 病倒 了
+12,null,null,浑身 战栗 不停
+13,null,null,茹茹 的 妈妈 孟 女士 含着泪 说 孩子 被 吓坏 了
+14,null,null,但是
+15,null,null,现在 顾不得 她
+16,null,null,把 她 送 回家
+17,null,null,我 还要 在 这里 待 着
+18,null,null,一定 要 等 着 救人 的 英雄 被 打捞 上来
+1536 4
+ (4,4)
+1,null,null,拼命 赚钱 九年 没 体检 医生 说 我 的 病 不是 遗传 的
+2,null,null,可能 和 我 的 工作 有关
+3,null,null,说起 自己 的 病因
+4,sadness,后悔,伟棠 后悔 自己 平时 没有 注意 身体健康
+2088 21
+ (13,8)
+1,null,null,11 日 下午
+2,null,null,翁 某 在 横峰 一家 小 鞋厂 做 了 两天 半 的 工
+3,null,null,不想 再 做 下去 了
+4,null,null,结账 离开
+5,null,null,经过 马鞍桥 公园 时
+6,null,null,他 看到 小志聪 一个 人 在 公园 里 哭
+7,null,null,就 上去 询问
+8,null,null,得知 小志聪 迷路 了
+9,null,null,翁 某 觉得 机会 来 了
+10,null,null,和 小志聪 聊起 了 天
+11,null,null,并 表示 要 带 小志聪 去 找 妈妈
+12,null,null,小志聪 回家 心切
+13,fear,害怕,再 加上 害怕
+14,null,null,就 紧紧 跟着 翁 某
+15,null,null,一路上
+16,null,null,翁 某 对 小志聪 还是 很 照顾 的
+17,null,null,听 我 儿子 说
+18,null,null,知道 他 口渴 了
+19,null,null,翁 某 马上 给 他 买 了 营养 快线
+20,null,null,儿子 说 饿 了
+21,null,null,就 给 他 买 蛋糕
+695 17
+ (9,9)
+1,null,null,1991 年 的 农历 九月初 八
+2,null,null,天上 飘着 秋雨
+3,null,null,尹素兰 像 往常 一样 去 赶集
+4,null,null,路上 她 看见 很多 乡亲 围 在 一起
+5,null,null,尹素兰 走近 一看
+6,null,null,地上 躺 着 的 是 一个 刚出生 不久 的 女婴
+7,null,null,女婴 在 一件 破 棉袄 里 裹 着
+8,null,null,上面 遮 了 一把 破伞
+9,fear,担心,因为 担心 孩子 被 冻坏 了
+10,null,null,她 把 孩子 抱 在 怀里 就 回 了 家
+11,null,null,寻思 着 等 村里 有人 想 收养 到时候 就 送 人
+12,null,null,可是 几个 月 过去 了
+13,null,null,并 没有 人要 来 领养 这个 女孩
+14,null,null,尹素兰 自己 家里 子女 也 多
+15,null,null,条件 很 困难
+16,null,null,但 还是 决定 把 孩子 养起来 了
+17,null,null,并 取名 李楠楠
+1360 10
+ (8,8)
+1,null,null,记者 还 见到 了 张 岐山 所在 面粉厂 的 厂长 梁兰惠
+2,null,null,身兼 县 人大代表 的 梁 厂长 说
+3,null,null,张 岐山 在 他们 工厂 已经 打工 两年 多 了
+4,null,null,主要 负责 搬运 装卸
+5,null,null,他 平时 为 人 老实 特别 实在
+6,null,null,也 特别 勤快
+7,null,null,和 工友 们 处 的 关系 都 不错
+8,sadness,痛心,我 为 失去 了 这么 好 一位 员工 感到 非常 的 痛心
+9,null,null,我会 在 厂子 里 开展 捐助 活动
+10,null,null,告慰 他 在天之灵
+841 17
+ (11,10)
+1,null,null,程济兰 说
+2,null,null,就是 自己 不吃 不洗
+3,null,null,每天 也 要 定时 给 儿子 喂 水 喂饭
+4,null,null,擦洗 身子
+5,null,null,即使 在 家里 走动
+6,null,null,程济兰 也 要 借助 一个 拐棍
+7,null,null,摸 着 走
+8,null,null,眼睛 本来 就 不好
+9,null,null,前年 我 小 女婿 出车祸 走 了
+10,null,null,想到 小女儿 和 外孙 以后 无依无靠
+11,sadness,伤心,我 伤心地 哭 了 好多天
+12,null,null,后来 眼睛 就 看不见 东西 了
+13,null,null,盼 瘫儿 能进 养老院 程济兰 失明 后
+14,null,null,村民 们 经常 帮 她家 打水 买 东西
+15,null,null,只要 家里 米 吃 完 了
+16,null,null,村里人 江彬 就 会 给 她 买 上 40 斤
+17,null,null,够吃 一个月
+1000 24
+ (13,13)
+1,null,null,当年
+2,null,null,范某 酒后 经常 来到 孙家 闹事
+3,null,null,孙 的 父母 人 比较 老实
+4,null,null,一直 忍气吞声
+5,null,null,办案 民警 介绍
+6,null,null,孙成 伟带 着 朋友 赶回 家中
+7,null,null,与 范某 争吵 起来 并 打 在 一起
+8,null,null,见 孙成 伟人 多
+9,null,null,范某 丢下 几句 狠话 离开 了
+10,null,null,孙成伟 意识 到
+11,null,null,范某 一定 会 报复 自己 的 父母
+12,null,null,他 想 和 范某 和解
+13,fear,惧怕,但 又 惧怕 范某 对 他 动手
+14,null,null,于是 揣 了 一把 匕首
+15,null,null,孙成伟 追 上范 某后
+16,null,null,两人 谈崩 了
+17,null,null,又 吵起来
+18,null,null,进而 开始 厮打
+19,null,null,撕扯 中
+20,null,null,孙成伟 掏出 匕首 刺 在 范某 的 颈部
+21,null,null,致范 某 当场 死亡
+22,null,null,看见 范某 倒 在 地上 不动 了
+23,null,null,孙成伟 慌 了 神
+24,null,null,他 脑袋 里 只有 一个 念头 — — — 逃跑
+1263 15
+ (2,1)
+1,null,null,3 万元 如愿 到手
+2,happiness,喜不自禁,杜某 喜不自禁
+3,null,null,2009 年 农历 二月 初九
+4,null,null,杜晓栓 和 孟小云 结婚
+5,null,null,晚上 客人 散尽
+6,null,null,一家人 突然 发现
+7,null,null,新娘子 不见 了
+8,null,null,原来
+9,null,null,杜某 怕 杜晓栓 洞房花烛 时 发现 孟小云 已有 身孕 的 事实
+10,null,null,会 弄 出 更 多 麻烦
+11,null,null,再说 他 也 不 甘心 自己 的 孩子 将来 叫 侄子 为 爹
+12,null,null,杜某 遂 偷偷 联系 孟小云 连夜 出逃
+13,null,null,杜 大兴 全家人 到处 找 新娘 也 没有 找到
+14,null,null,便 去 找 杜某
+15,null,null,结果 杜某 也 找 不到 了
+8 8
+ (1,2), (1,3), (8,5), (8,7)
+1,disgust,生不如死,生不如死 是 老 吴 患癌 后 常有 的 想法
+2,null,null,由于 大面积 骨转移
+3,null,null,老 吴 每天 都 在 剧痛 里 挣扎
+4,null,null,从 2012 年 10 月 到 现在
+5,null,null,老 吴 已经 和 晚期 肺癌 搏斗 了 30 个 月
+6,null,null,这个 时间 长度
+7,null,null,比 医生 最初 给 他 的 死亡 判决 已经 超出 了 近 10 倍
+8,surprise,惊诧,深圳 宁养院 的 医生 王劲 也 感到 惊诧
+655 10
+ (8,8)
+1,null,null,3 月 17 日
+2,null,null,闫倩玉 看到 家里 房屋 失火
+3,null,null,为 救 在 房间 睡觉 的 母亲
+4,null,null,危急 之下 她 奋不顾身 冲入 火中
+5,null,null,结果 母亲 受 了 轻伤
+6,null,null,她 自己 特 重度 烧伤
+7,null,null,被 抬 上 救护车 时 还 一直 喊 着 救 妈妈
+8,happiness,感动,她 的 勇敢 和 孝心 感动 了 不少 爱心 人
+9,null,null,救治 过程 中
+10,null,null,南石 医院 累计 收到 账号 捐款 和 上门 捐款 近 260 万元
+925 19
+ (3,2)
+1,null,null,昨日
+2,null,null,说起 前 几天 被 小偷 尾随 并 恐吓 的 事情
+3,fear,心有余悸,王大爷 还 心有余悸
+4,null,null,第一幕 公交 上 伸贼 手
+5,null,null,老人 及时 提醒 老伴 王大爷 回忆 道
+6,null,null,1 月 11 日 中午 12 点 左右
+7,null,null,自己 和 老伴 在 万年 场 附近 办完 事后
+8,null,null,走 到 万年 场 公交站 准备 乘坐 2 路 公交车
+9,null,null,到 塔子山 公园 进行 换乘
+10,null,null,上 了 2 路 公交车 后
+11,null,null,王大爷 和 老伴 走到 了 公交车 车厢 后面
+12,null,null,找 位子 坐下
+13,null,null,然而
+14,null,null,刚 坐下 不到 10 秒钟
+15,null,null,王大爷 就 发现 坐在 自己 旁边 一名 20 多岁 的 小伙子 有点 不对劲
+16,null,null,当时 我 和 老伴儿 分开 坐 的
+17,null,null,她 坐在 我 的 前面
+18,null,null,坐下 去 不久
+19,null,null,我 就 看到 坐在 我 旁边 的 小伙子 将 手 从 座椅 中间 伸到 了 我 老伴儿 的 包包 上面
+1070 13
+ (10,9), (10,9)
+1,null,null,据悉
+2,null,null,该 肇事 男子 就是 温州 交运 集团 40 路 公交车 驾驶员 余某
+3,null,null,当晚
+4,null,null,余某 酒后 与 儿子 发生 争吵
+5,null,null,便 带 弹弓 外出 射击 发泄
+6,null,null,之所以 袭击 公交
+7,null,null,是因为 公交 目标 大
+8,null,null,原本 以为 自己 只是 小小的 恶作剧
+9,null,null,不料 却 已 构成 刑事犯罪
+10,sadness&sadness,后悔&后悔,余某 后悔不已
+11,null,null,事故 造成 4 辆 公交车 损坏 总价值 约 为 4200 元
+12,null,null,案发后
+13,null,null,余 某 向 温州 交运 集团 作出 了 赔偿
+610 9
+ (5,6)
+1,null,null,戴 行舟 的 家 位于 芝兰 新城
+2,null,null,昨天 一早
+3,null,null,记者 来到 这里
+4,null,null,尽管 早有 心理准备
+5,surprise,震惊,但是 记者 一 进门 还是 被 震惊 了
+6,null,null,这个 家 应该 称之为 仓库
+7,null,null,除了 厨房 和 卫生间
+8,null,null,每个 房间 里 都 堆满 了 编织袋 鞋 盒子
+9,null,null,有些 地方 已经 顶到 了 天花板 上
+601 9
+ (3,2)
+1,null,null,他 说 今年 离职 后
+2,null,null,一直 没有 找到 合适 的 工作
+3,sadness,沮丧,很 沮丧
+4,null,null,这些 帮助 对 他 来说 如同 雪中送炭
+5,null,null,我会 电话 联系 这些 公司
+6,null,null,然后 选 较为 中意 的 单位 实地 了解
+7,null,null,我 并 没 做 多么 了不起 的 事
+8,null,null,相比 这么 多 好心人 对 我 的 帮助
+9,null,null,我心 有愧 意
+1315 9
+ (5,4), (9,8)
+1,null,null,游客 二 猛兽 区 每个 猛兽 馆 都 是 分离 的
+2,null,null,我们 去 看 孟加拉虎
+3,null,null,兴致勃勃 地 欣赏 老虎 奔跑
+4,null,null,结果 老虎 不断 逼近
+5,fear,害怕,我们 也 有点 害怕
+6,null,null,开 到 孟加拉虎 馆 出口
+7,null,null,大门 锁住 了
+8,null,null,老虎 扑上来 咬 轮胎
+9,fear,害怕,我们 就 更 害怕 了
+1136 10
+ (6,5)
+1,null,null,接到 报警 的 消防 公安 邛管局 等 人员 到 现场
+2,null,null,调集 4 搜 快艇 展开 搜救
+3,null,null,最终 将 两人 遗体 打捞 上岸
+4,null,null,餐厅   先 处理 去世 人员 后事 今日 下午
+5,null,null,某 西餐厅 就 两名 大学生 参加 活动 发生 意外事件 表示 对 发生 这样 的 事情
+6,sadness,痛心,感到 很 痛心
+7,null,null,当务之急 是 做好 去世 员工 的 后事 安排 和 家属 的 安抚 工作
+8,null,null,下 一步
+9,null,null,将 按照 家属 要求
+10,null,null,与 相关 部门 积极 协调 申报 见义勇为 奖
+961 17
+ (12,12)
+1,null,null,近日
+2,null,null,沙雅县 人民法院 审结 了 这起 盗窃案
+3,null,null,一审判决 被告人 宇阳 有期徒刑 4 年
+4,null,null,并 处罚金 2 万元
+5,null,null,二审 维持原判
+6,null,null,7 个 月 前 的 一天
+7,null,null,挂断 女友 欣瑞 的 电话 后
+8,null,null,宇阳 闷闷不乐
+9,null,null,经 工友 再三 询问 得知
+10,null,null,宇阳 的 女友 欣瑞 因患 急性 胃炎 吐血 不止
+11,null,null,需 住院治疗
+12,disgust,发愁,可 大笔 的 医疗费 让 生活 窘迫 的 宇阳 发愁
+13,null,null,随后 几天
+14,null,null,宇阳 做出 了 一个 糊涂 的 决定
+15,null,null,趁 雇主 王某 外出 之际
+16,null,null,偷走 了 王 某 的 农用 拖拉机
+17,null,null,将 其 出售 后 携款 逃离
+499 13
+ (6,6)
+1,null,null,之前
+2,null,null,周玮 在 参加 其他 节目 时
+3,null,null,有人 对 周玮 的 速算 能力 提出 质疑 家人 教 的
+4,null,null,周玮 经常 玩 计算器
+5,null,null,自己 记住 了
+6,anger,气愤,周润 莲对 这些 疑问 有点 气愤
+7,null,null,她 说 我家 孩子 靠 的 是 自己 的 真本事
+8,null,null,我们 不怕 质疑
+9,null,null,根号 里 30 位 数字
+10,null,null,2 到 99 次方 随便 开方
+11,null,null,周玮 告诉 记者
+12,null,null,他 最高 能算 2 的 81 次方
+13,null,null,一共 25 位数
+873 10
+ (7,6)
+1,null,null,广西 桂林 一只 小猫 逃出 家门 后 躲 到 了 一间 店铺 的 夹层 中
+2,null,null,小猫 的 前任 主人 李女士 为了 避免 小猫 流浪 在外
+3,null,null,竟 辞掉 了 工作
+4,null,null,在 店铺 外 守候 了 整整 三天 两夜
+5,null,null,5 月 18 日
+6,null,null,当 桂林 消防官兵 发现 小猫 后
+7,happiness,高兴,李女士 高兴 得 一度 失态 并 痛哭
+8,null,null,18 日 上午
+9,null,null,消防官兵 赶到 桂林市 三里 店大 圆盘 附近
+10,null,null,看到 了 焦急 的 李女士
+1852 12
+ (4,3)
+1,null,null,2013 年
+2,null,null,陈民 一个 人 回到 台湾
+3,null,null,周芬 时常 打电话 向 他 索要 生活费
+4,disgust,厌烦,这 更 加剧 了 他 的 厌烦
+5,null,null,他 在 网上 雇 了 两个 杀手
+6,null,null,决定 除掉 妻子
+7,null,null,谁知
+8,null,null,杀手 找到 周芬 后
+9,null,null,不仅 没 完成 他 的 委托 任务
+10,null,null,还 被 当成 小偷 给 抓 了
+11,null,null,近日
+12,null,null,泗阳县 人民法院 公开审理 了 此案
